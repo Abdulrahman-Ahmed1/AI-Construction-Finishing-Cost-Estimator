@@ -1,0 +1,10 @@
+Category,Subcategory,Brand,Product_Name,Grade,Quality_Level,Quality_Score,Unit,Price_EGP,Required_For,Optional
+Auxiliary,Paints Preparation Materials,GLC / SCIB,Putty & Wall Preparation Materials,Not Applicable,Low,7.5,m2,40,Paints,False
+Labor,Flooring Installation,Market Standard,Tile Installer Labor (Porcelain),Not Applicable,Low,8.8,m2,180,Flooring,False
+Auxiliary,Flooring Building Materials,CEMEX / Building Standards,Cement & Sand for Flooring,Not Applicable,Medium,7.5,m2,65,Flooring,False
+Labor,Flooring Installation,Market Standard,Tile Installer Labor,Not Applicable,High,7.5,m2,110,Flooring,False
+Auxiliary,Plumbing Insulation,CMB / Sika,Bathroom WaterProofing Insulation,Not Applicable,High,9.0,Bathroom,2200,Plumbing,False
+Labor,Paints Application,Market Standard,Painter Labor,Not Applicable,High,7.5,m2,55,Paints,False
+Labor,Electrical Works,Market Standard,Electrician Labor (Basic + Finishing),Not Applicable,Medium,8.0,Room,1200,Electrical,False
+Labor,Plumbing Works,Market Standard,Plumber Labor (Basic + Sanitary),Not Applicable,Medium,8.0,Bathroom,4500,Plumbing,False
+Auxiliary,Flooring Building Materials,Saveto / CMTV,Tile Adhesive (Tile Mortar),Not Applicable,Low,8.5,m2,45,Flooring,False

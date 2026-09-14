@@ -1,0 +1,230 @@
+Finishing_Category,Category,Subcategory,Product_Name,Brand,Quality_Level,Price_EGP,Unit,Quantity_Rule,Rule_Value,Required_For,Optional
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,420,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,205,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,165,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,440,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,425,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,360,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,445,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,385,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,155,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,375,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,465,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,155,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,415,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,485,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,220,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,490,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,365,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,205,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,435,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,495,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,495,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,220,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,475,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,410,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,420,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,480,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,160,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,475,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,380,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,360,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,440,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,210,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,500,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,440,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,165,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,175,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,410,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,440,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,425,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,475,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,505,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,495,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,370,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,185,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,465,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,385,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,475,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,175,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,400,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,200,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,360,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,455,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,375,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,375,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Low,355,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,165,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,405,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Low,355,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,205,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,195,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,205,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,435,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,460,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,400,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,505,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,380,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,195,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,190,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,180,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,175,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,470,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,170,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Low,355,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,195,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,160,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,180,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,405,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,425,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,200,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,180,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,190,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,165,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,460,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,220,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,150,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,490,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,170,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,410,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,445,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,465,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,215,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,430,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,420,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,190,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,470,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,170,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,435,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,420,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,395,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,490,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,495,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,185,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,390,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,405,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,210,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,485,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,215,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,365,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,450,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,450,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,380,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,400,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,380,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,455,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,445,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,165,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,395,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,500,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,190,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,210,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,490,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,380,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,195,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,185,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,410,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,485,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,370,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,365,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,430,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,215,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,455,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,395,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,430,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,400,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,220,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,415,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,160,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,375,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,155,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,175,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,390,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,410,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,485,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,215,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,400,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,370,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,455,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,450,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,220,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,160,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,200,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,395,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,200,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,495,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,430,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,485,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,465,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,420,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,505,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,405,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,470,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,480,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,360,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,390,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,425,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,205,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,370,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,210,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,175,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,480,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,425,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,200,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,475,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,440,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,190,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,470,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,445,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,185,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,170,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,155,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,415,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,UPONOR,Low,215,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,150,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,450,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,490,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,370,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Low,355,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,470,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,195,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,500,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,455,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,385,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,460,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,365,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Medium,430,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,155,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,480,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,210,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,460,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,435,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,185,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,395,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,460,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,160,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,415,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,445,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,505,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,365,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,Medium,415,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,390,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,Medium,360,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,Low,355,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,450,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,480,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,Medium,375,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,385,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Nile,High,435,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,405,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,UPONOR,High,500,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Aqua Technology,Low,150,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,150,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,High,465,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Aqua Technology,High,505,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,170,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Nile,Low,180,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,Georg Fischer,Low,150,Piece,Per_Bathroom,6,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,Georg Fischer,Medium,390,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PVC Pipes,PVC Drain Pipe,El Sherif,High,500,Piece,Per_Bathroom,2,Bathroom,False
+Plumbing,Plumbing,PPR Pipes,PPR Pipe,El Sherif,Low,180,Piece,Per_Bathroom,6,Bathroom,False

@@ -1,0 +1,46 @@
+{
+  "model_name": "HistGradientBoostingRegressor",
+  "model_version": "1.1.0",
+  "random_seed": 42,
+  "feature_columns": [
+    "Apartment_Area_m2",
+    "Rooms",
+    "Bathrooms",
+    "Master_Bathrooms",
+    "Balconies",
+    "Receptions",
+    "Finishing_Level",
+    "Ceilings_Quality",
+    "Doors_Quality",
+    "Electrical_Basic_Quality",
+    "Electrical_Finishing_Quality",
+    "Flooring_Quality",
+    "Paints_Quality",
+    "Plumbing_Quality",
+    "Sanitary_Quality",
+    "Include_Reception_Ceiling_Upgrade",
+    "Include_Reception_Chandelier",
+    "Include_Master_Bathroom_Upgrade",
+    "Plumbing_System"
+  ],
+  "target_column": "Total_Finishing_Cost_EGP",
+  "best_params": {
+    "model__learning_rate": 0.06,
+    "model__max_iter": 500,
+    "model__max_leaf_nodes": 31,
+    "model__l2_regularization": 1.0
+  },
+  "test_set_metrics": {
+    "MAE": 6849.817123839675,
+    "RMSE": 9154.67416258311,
+    "R2": 0.9838258312430672
+  },
+  "test_set_residual_quantiles": {
+    "p05": -15996.108676718448,
+    "p95": 14121.707216393479
+  },
+  "training_rows": 4800,
+  "test_rows": 1200,
+  "training_data": "scenario-generated / synthetic (see src/scenario_generation/generate_scenarios.py)",
+  "notes": "Single sklearn Pipeline containing preprocessing and HistGradientBoostingRegressor. Retrained in the packaged environment to ensure sklearn model persistence compatibility."
+}

@@ -1,0 +1,1662 @@
+Finishing_Category,Category,Subcategory,Product_Name,Brand,Quality_Level,Price_EGP,Unit,Quantity_Rule,Rule_Value,Required_For,Optional
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6507,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3979,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10610,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6322,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10845,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,8034,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8513,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1812,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,7316,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,7541,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10602,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4917,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10877,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3572,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10910,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,7038,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7876,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8229,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6781,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9800,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6215,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9572,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4080,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8705,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,7740,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Low,4557,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Low,4600,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9126,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,7371,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,3885,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6275,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6442,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9641,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10640,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8600,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3389,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8385,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6744,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5050,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6352,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10738,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,7572,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7693,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9217,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,6296,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7198,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,4029,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5286,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,7698,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10498,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8450,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7968,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6115,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8034,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9399,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2422,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6818,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8639,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,3866,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10060,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1997,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2927,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5556,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9702,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5955,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6442,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9952,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6822,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,4060,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2816,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5703,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5827,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2176,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5972,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6246,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7466,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8612,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Low,4695,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,7662,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,7240,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9980,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,7299,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7742,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3245,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,7886,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6764,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7994,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2440,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8498,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2873,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6119,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9009,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9028,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,4719,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7761,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,7180,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,7823,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2756,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2160,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4343,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4258,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7499,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2056,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9734,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10171,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4604,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2675,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6410,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3671,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10115,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8375,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6414,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3946,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8539,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7636,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2814,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10284,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6107,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6986,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2071,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6588,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8345,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7354,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6919,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3242,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7828,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,7468,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,4081,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,4015,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,7374,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6791,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3692,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3641,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7113,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4868,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4966,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2079,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2360,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Low,4774,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1840,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2992,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6866,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5341,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5389,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3774,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7088,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3610,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6172,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,7376,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,5004,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3139,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5640,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8215,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6116,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7869,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,7372,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10469,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,10264,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2975,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6733,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10717,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6150,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8250,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6367,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9704,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8113,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6011,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6027,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9020,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4509,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,7242,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10888,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2624,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,7051,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2383,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4952,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5230,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8220,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7855,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5347,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5139,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7500,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5677,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Low,4978,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3346,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2671,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10597,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3324,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5529,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7148,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7636,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5594,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4482,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2389,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2588,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3529,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2808,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7113,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8185,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3438,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2100,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1810,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5277,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1839,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1895,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,7457,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5479,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3800,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2444,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5794,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8752,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,4101,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10632,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9182,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2896,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8173,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4838,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8257,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3648,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6865,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6840,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6543,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6518,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8080,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Low,4665,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,7036,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8607,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4006,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4872,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1951,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2624,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3914,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Low,4905,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,10236,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,7521,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6887,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6351,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3513,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4031,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5984,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,7103,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3226,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5221,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3340,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10003,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3069,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9553,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5760,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2099,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Low,4635,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9898,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6334,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3060,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7506,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6637,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,7308,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,7973,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2902,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,5223,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2481,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,6239,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8196,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3816,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6917,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6126,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2806,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8274,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8102,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5337,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4257,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3722,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9152,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5299,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,7087,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2997,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6191,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4980,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10402,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5280,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,7449,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4124,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,1899,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,8418,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6585,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2464,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2749,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3095,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9049,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8125,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8863,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10363,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6600,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10580,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7820,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,3856,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7625,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4027,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3810,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,7836,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,7745,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7721,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7913,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8227,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8464,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9611,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,3926,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5418,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5199,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5398,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8079,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5640,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8778,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8460,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5931,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2452,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5646,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10395,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5370,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3482,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,8320,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5564,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10761,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2530,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8010,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2896,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5713,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3157,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8205,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,10492,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5938,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2108,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10117,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4190,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7900,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2307,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7924,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3467,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3669,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8645,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7274,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6301,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,7640,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5767,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7406,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,3996,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9593,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,7682,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6545,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Low,4543,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4896,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8604,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6733,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6194,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6666,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,3813,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9926,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9097,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10157,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7683,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,7814,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4038,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10181,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2635,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5011,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9295,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,4973,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,1959,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6887,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2585,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,7669,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8068,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5880,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9131,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2898,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6706,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7845,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9359,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6986,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3470,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2458,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,1851,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9519,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4061,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6698,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5655,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3982,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6726,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Low,4731,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8579,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6055,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6684,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4073,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2356,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10945,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6314,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5730,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3010,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2784,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10623,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,7679,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6063,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,5902,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2797,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7930,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5009,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2082,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,1861,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5131,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5543,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3331,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Low,4762,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6970,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8091,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2622,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6791,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5053,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4636,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6722,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5787,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10732,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6182,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9064,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8388,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5027,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6845,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10817,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5698,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4293,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6913,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5468,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2343,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6493,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6911,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5171,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3611,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8072,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5282,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8839,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5583,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2009,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,7888,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4999,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3296,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6206,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,4568,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6735,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5425,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9234,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7136,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3063,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6123,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2358,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4405,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9690,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9757,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6235,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4915,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,4104,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3433,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2188,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9910,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8290,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5638,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7471,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6208,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2910,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3334,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10692,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5433,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8188,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10083,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9530,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9858,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9974,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8214,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2169,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2906,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5649,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,7095,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9256,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7011,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3875,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7419,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7770,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6133,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,7129,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7650,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4492,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5074,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10081,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10861,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8079,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7552,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9150,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9812,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5354,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2343,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2723,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7820,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3205,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10910,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6494,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,7373,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4972,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3895,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2277,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5826,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2691,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8040,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4961,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4978,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Low,4524,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6837,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5944,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10585,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7364,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2192,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,6250,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,1951,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3061,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6131,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5898,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9128,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3146,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4756,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,3996,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7709,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6235,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2547,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2961,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10431,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9438,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Low,4647,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2144,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3771,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6044,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3796,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2299,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9643,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,8150,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,8765,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9239,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2427,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4826,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4536,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,1957,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6174,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5327,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10180,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,7800,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3991,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9501,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8772,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6977,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5518,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3583,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,3870,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,1960,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6115,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3932,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6499,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,5082,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9718,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,3946,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,5253,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5356,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3890,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9184,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6998,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,7903,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7593,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5693,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5577,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9267,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2707,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8714,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2387,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8675,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2000,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10386,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,7849,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4380,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6731,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5096,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,7376,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8020,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,4110,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5100,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6449,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3849,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,6238,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6032,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3656,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5539,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9251,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3234,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,7297,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7666,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7423,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,4727,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7646,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6506,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4141,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5218,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5051,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6427,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8227,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8912,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2934,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,5406,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4241,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6009,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,7309,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8188,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,7695,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8617,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5596,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4854,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2160,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3409,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Low,4557,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3545,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9529,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5061,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,4002,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9128,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10356,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10794,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8893,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8310,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,7986,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3252,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8223,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3085,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6424,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,7378,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9895,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8975,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8057,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8913,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6244,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,7985,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3265,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5835,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3592,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6784,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2164,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Low,4560,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5058,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,4643,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,7975,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4292,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2399,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3514,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4424,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8458,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,7969,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5372,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5796,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8032,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3214,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3343,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,5541,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6437,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8523,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5707,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Low,4583,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3606,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8626,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,7542,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9616,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10111,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5729,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,4132,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4138,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8191,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9068,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,7322,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Low,4595,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,7114,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5068,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3484,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3380,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,7068,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,7700,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10239,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,4116,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6612,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5541,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Low,4934,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2492,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,7176,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5846,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6030,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4240,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8167,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6803,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7723,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5393,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3308,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7685,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8180,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2025,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,4159,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7910,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9226,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Low,4702,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9104,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9941,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,10289,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3632,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8408,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10293,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4024,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,3998,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2977,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6214,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10674,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5980,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10164,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,4123,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6276,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6884,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7028,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7873,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2728,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6376,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2665,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2487,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6179,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,7400,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4421,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,1921,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Low,4515,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5447,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2874,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9552,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9364,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6243,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10392,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6268,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,7606,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9474,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5396,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10751,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8590,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10238,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10599,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4796,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5017,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,5951,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9961,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8957,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5225,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4832,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8723,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5452,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6439,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6879,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8191,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3650,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5276,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6217,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8602,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,6159,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,3830,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8845,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5955,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1921,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Low,4690,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9888,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,4514,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2326,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5366,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3217,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4667,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10791,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1902,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5959,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,5186,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10636,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1998,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6918,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8806,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8424,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10444,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9060,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2095,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7600,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9426,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,7150,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,7586,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5145,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Low,4677,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2361,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6409,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10145,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,7402,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5551,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,3890,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3526,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6320,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10404,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3040,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2583,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6172,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10345,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9478,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,4526,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2554,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2740,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2785,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10451,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5286,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5038,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5479,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,7366,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7069,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10491,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8382,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10593,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,7634,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7922,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5949,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5591,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4632,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4999,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5573,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5069,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9802,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7550,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2549,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7496,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,7740,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7777,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5039,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7384,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Low,4736,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5049,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9633,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,7996,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10693,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1999,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10418,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1920,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6299,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5820,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6987,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7053,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10267,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8251,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5499,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3730,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10419,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6429,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6695,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6387,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9879,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,7824,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5197,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Low,4966,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4381,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9975,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,10339,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6146,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9164,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6368,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8146,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,7606,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,7627,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,10839,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8125,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5066,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6843,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5958,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9680,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6986,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Low,4905,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5675,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9622,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6503,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8323,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5689,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,1950,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6975,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,7193,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6053,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3990,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,7075,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2506,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7409,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3747,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10397,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10374,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5650,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4430,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5134,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5607,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5828,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,5901,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5818,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7396,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5062,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3155,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Low,4888,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10313,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7683,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,7024,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2100,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2846,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8896,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7526,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4127,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9870,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5913,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6372,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2618,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4743,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8147,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10601,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5039,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5369,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7624,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Low,4986,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2672,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6738,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5555,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,7890,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,1832,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8911,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4518,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3886,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9580,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Low,4645,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6145,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1973,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9916,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,7088,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,7943,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Low,4529,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10685,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9411,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6408,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5042,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3950,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6538,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8835,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9335,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3801,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Low,4707,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3924,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6966,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,7238,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4912,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9256,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6214,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2897,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5057,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,3990,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9993,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3260,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3919,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7574,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,5006,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8332,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3653,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2083,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,3916,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5696,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2478,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9623,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2094,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6903,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5482,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9042,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6295,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3847,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2547,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3364,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7834,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,4032,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2171,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10394,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3580,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Low,4824,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4474,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,3871,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2060,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,5283,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,7862,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10989,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6229,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4232,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5689,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5112,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10380,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9632,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5854,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6683,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6187,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6651,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,1971,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9798,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,10401,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,6273,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7830,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9944,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,8753,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,7908,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8778,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5258,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6114,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4826,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1845,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2925,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5736,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,7326,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9982,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7624,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6433,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8779,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10831,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,7086,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4982,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4143,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2007,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,5404,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10250,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,8669,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3557,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9667,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4276,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5750,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9673,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9450,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6291,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6526,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4004,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4771,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6041,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6318,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,7279,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8047,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9692,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9908,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2902,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6257,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,7464,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9395,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4566,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,4120,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5131,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8425,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,4180,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,5528,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10360,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8451,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4474,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1957,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5376,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6279,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10068,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Low,4699,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6401,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2436,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,7375,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10876,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6831,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,3983,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5261,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6546,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6299,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9576,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,7778,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9176,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10321,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,6427,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Low,4700,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3617,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,1812,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6093,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8294,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9460,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2486,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7429,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8238,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3720,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2703,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2130,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,7345,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2003,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2295,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5625,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2942,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10807,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2522,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Low,4913,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6828,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10434,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9589,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5174,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5717,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Low,4649,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6102,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4567,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5280,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10817,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6492,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3151,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2161,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3508,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5565,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6307,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7983,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,3869,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3612,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7840,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6325,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,7304,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9166,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2630,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9858,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3276,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4979,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2846,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3764,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,3953,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9476,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5011,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4049,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8155,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2171,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9017,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7749,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2728,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5977,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6527,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8059,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3660,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2242,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8746,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9636,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8266,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7272,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8189,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4486,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8625,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,4191,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4069,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8208,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,7807,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5205,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6792,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5994,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5396,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,7864,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5169,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6323,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10880,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5517,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,5740,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4248,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5120,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9646,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5473,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5529,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,7587,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Low,4673,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6990,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7627,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2464,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10006,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6059,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Low,5001,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10583,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3735,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10235,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6848,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6773,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7252,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6896,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10421,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10337,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10145,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,3884,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2133,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4960,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,8403,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9618,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5524,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3094,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6087,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6523,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9428,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10602,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5746,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8277,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10789,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,7562,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9073,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6629,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2869,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5119,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9614,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8844,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,7487,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7531,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5889,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3219,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,7706,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Low,4644,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2555,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5932,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3649,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1859,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5985,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2030,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5327,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,1951,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3236,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3848,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2036,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2390,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8933,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5592,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6231,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5620,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3908,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2191,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10056,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4898,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6508,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5216,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10402,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3730,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2170,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8322,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10455,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,7100,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3885,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10730,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5560,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9037,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,7596,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,1846,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,9388,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7905,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6685,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6153,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7682,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8170,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9268,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10874,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9986,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2641,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9919,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6410,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4084,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6439,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,7384,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3942,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7668,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6732,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9885,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6313,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6405,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5111,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6255,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8926,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3785,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6639,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4409,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3546,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6104,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8594,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9184,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3532,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,6525,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,10384,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3883,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5772,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6454,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4803,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3293,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4400,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,4152,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,3981,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,7262,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7025,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9418,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,8120,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,7008,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,4099,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,7615,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2721,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6882,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2858,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2636,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8587,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9406,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5362,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5326,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9664,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9260,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,8855,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5534,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7673,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10470,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6723,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10451,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6682,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,10227,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10001,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8339,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9874,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5142,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3807,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8391,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10091,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9318,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9568,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6314,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6834,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,8047,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,7781,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6915,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4753,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Low,4905,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,4080,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5838,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2341,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8894,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6376,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6867,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8169,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4717,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3781,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6173,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9501,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,1914,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8516,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6565,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,7225,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3555,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,4055,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9652,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10783,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10521,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10067,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9790,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8875,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,7448,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7611,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7054,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2788,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8554,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6163,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3728,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7512,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4661,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9571,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8548,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,4057,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8909,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3633,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9121,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5392,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2135,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3524,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8165,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2368,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6711,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10736,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2639,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6290,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5478,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2375,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,7746,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,10345,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6480,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4830,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,4007,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9379,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9351,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5442,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3092,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4404,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3587,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,High,7952,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8588,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10330,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6943,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,10295,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4914,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5846,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,7966,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2016,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,7092,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10323,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2024,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2203,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3855,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10169,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Low,4911,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5013,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,8491,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8829,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,10231,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Low,4756,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9818,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2279,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4313,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8435,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2321,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,10971,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5354,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5157,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8117,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4227,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,7120,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,7319,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1995,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,7354,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8169,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6301,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,8576,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6255,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Low,4815,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,7257,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5290,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,1825,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3917,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9957,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9269,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6302,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5430,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6443,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10311,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,7539,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,7542,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,7034,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5405,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8203,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8430,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4513,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,6609,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6342,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6600,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2742,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,2801,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9259,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2054,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,7710,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3176,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6733,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4963,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10745,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,8000,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2640,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,6822,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9959,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,3291,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,7507,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,3961,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6669,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,8003,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3830,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Low,4927,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9501,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Low,4833,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,6314,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,7297,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6046,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10078,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3530,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6503,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,Medium,7438,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,10311,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5442,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8833,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5680,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8569,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2261,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6064,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,8104,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4815,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9840,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5423,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7827,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2384,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8028,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8200,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3852,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8135,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3522,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,1842,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5201,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5632,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6637,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7403,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Low,4978,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10474,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3335,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4200,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3297,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,7538,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5556,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7685,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,9689,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,8994,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5667,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6423,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4417,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5130,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9596,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,5681,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2736,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4875,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2222,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9498,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8211,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4254,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9617,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4432,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2790,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3778,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5139,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2184,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2087,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,High,8116,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,8657,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3826,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6806,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,7575,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,9291,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,8512,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9831,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,4711,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10192,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4922,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,7385,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4670,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2861,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2211,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,5814,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3596,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5653,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6534,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4612,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2561,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,6907,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,4005,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,9439,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,10500,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Low,4757,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10309,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3994,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Low,4949,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Low,4195,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,6064,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9041,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3884,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2563,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Low,4680,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3397,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6497,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,7749,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5236,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3735,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Medium,7326,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,6206,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Low,4757,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6723,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6962,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,7706,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,9607,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,9917,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,Medium,5350,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,8251,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6613,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Low,4751,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9080,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9840,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2838,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Medium,6566,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,Low,4953,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2047,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4308,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,7508,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,High,8276,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8256,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7856,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3764,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,10502,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,9944,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,High,7874,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4219,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3022,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9302,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8357,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,9865,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,2740,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4305,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,7220,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Low,4020,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,6940,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,8853,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,High,10562,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,10906,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Medium,5738,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6240,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,GROHE,Low,3943,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,5372,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,10720,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Lecico,High,10292,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ideal Standard,Medium,5868,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,7875,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3281,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6597,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Low,4726,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3850,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5440,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,High,7984,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,Medium,5345,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,High,10745,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,7387,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,6580,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Lecico,Low,4116,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,6586,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3161,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2429,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3479,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Roca,Low,3251,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,High,9223,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,5007,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,GROHE,Low,2039,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,9632,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5013,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,Medium,6688,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,Medium,5632,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5463,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,3062,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Ceramica Cleopatra,Medium,5347,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,GROHE,High,7681,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Lecico,High,8989,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,GROHE,Medium,5338,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Low,4512,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Floor Mounted,Close Coupled Toilet,Roca,High,7824,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,Medium,5295,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ceramica Cleopatra,High,8336,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,2470,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Lecico,Low,3131,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,3195,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Ideal Standard,High,7799,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Roca,Medium,6024,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ceramica Cleopatra,High,8876,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Rain Shower,Rain Shower,Ideal Standard,Medium,6343,Set,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,5821,Piece,Per_Master_Bathroom,1,Master Bathroom,True
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ceramica Cleopatra,Low,4125,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Pedestal,Wash Basin,Ideal Standard,Low,2023,Piece,Per_Bathroom,1,Bathroom,False
+Sanitary Ware,Sanitary,Sliding Cabin,Shower Cabin,Roca,Medium,6845,Piece,Per_Master_Bathroom,1,Master Bathroom,True
