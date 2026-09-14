@@ -1,0 +1,540 @@
+Brand,Product_Name,Category,Specification,Application,Power_W,Quality_Level,Quality_Score,Unit,Quantity_Rule,Rule_Value,Required_For,Optional,Price_EGP,Subcategory,Grade,Quality_Price_Band,Estimated_Quantity,Estimated_Total_Cost,Finishing_Category
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1273,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1273,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2564,Modern Chandelier,Not Applicable,High: > 2252,1,2564,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2699,Modern Chandelier,Not Applicable,High: > 2252,1,2699,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,145,LED Spotlight,Not Applicable,Low: <= 174,4,580,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,113,LED Downlight,Not Applicable,Low: <= 174,8,904,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2407,Modern Chandelier,Not Applicable,High: > 2252,1,2407,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1683,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1683,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2920,Modern Chandelier,Not Applicable,High: > 2252,1,2920,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1940,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1940,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1577,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1577,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2047,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2047,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1616,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1616,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1742,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1742,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,136,LED Spotlight,Not Applicable,Low: <= 174,4,544,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2818,Modern Chandelier,Not Applicable,High: > 2252,1,2818,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2343,Modern Chandelier,Not Applicable,High: > 2252,1,2343,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1467,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1467,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1803,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1803,Electrical
+Opple,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,73,LED Spotlight,Not Applicable,Low: <= 174,4,292,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1785,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1785,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3355,Modern Chandelier,Not Applicable,High: > 2252,1,3355,Electrical
+Philips,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,77,LED Bulb,Not Applicable,Low: <= 174,4,308,Electrical
+Osram,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,77,LED Bulb,Not Applicable,Low: <= 174,4,308,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2579,Modern Chandelier,Not Applicable,High: > 2252,1,2579,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1970,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1970,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2202,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2202,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1307,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1307,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2254,Modern Chandelier,Not Applicable,High: > 2252,1,2254,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,145,LED Spotlight,Not Applicable,Low: <= 174,4,580,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1393,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1393,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2036,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2036,Electrical
+Osram,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,117,LED Bulb,Not Applicable,Low: <= 174,4,468,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3356,Modern Chandelier,Not Applicable,High: > 2252,1,3356,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,56,LED Downlight,Not Applicable,Low: <= 174,8,448,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,57,LED Downlight,Not Applicable,Low: <= 174,8,456,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,120,LED Downlight,Not Applicable,Low: <= 174,8,960,Electrical
+Philips,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,142,LED Bulb,Not Applicable,Low: <= 174,4,568,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3043,Modern Chandelier,Not Applicable,High: > 2252,1,3043,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,142,LED Downlight,Not Applicable,Low: <= 174,8,1136,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1436,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1436,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3162,Modern Chandelier,Not Applicable,High: > 2252,1,3162,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,162,LED Downlight,Not Applicable,Low: <= 174,8,1296,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,125,LED Spotlight,Not Applicable,Low: <= 174,4,500,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2096,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2096,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2985,Modern Chandelier,Not Applicable,High: > 2252,1,2985,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2533,Modern Chandelier,Not Applicable,High: > 2252,1,2533,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,104,LED Downlight,Not Applicable,Low: <= 174,8,832,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2554,Modern Chandelier,Not Applicable,High: > 2252,1,2554,Electrical
+Opple,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,148,LED Bulb,Not Applicable,Low: <= 174,4,592,Electrical
+Venus Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,92,LED Bulb,Not Applicable,Low: <= 174,4,368,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,75,LED Downlight,Not Applicable,Low: <= 174,8,600,Electrical
+Opple,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,74,LED Spotlight,Not Applicable,Low: <= 174,4,296,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3365,Modern Chandelier,Not Applicable,High: > 2252,1,3365,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2628,Modern Chandelier,Not Applicable,High: > 2252,1,2628,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2950,Modern Chandelier,Not Applicable,High: > 2252,1,2950,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2191,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2191,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2170,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2170,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,139,LED Downlight,Not Applicable,Low: <= 174,8,1112,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1237,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1237,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1779,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1779,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1536,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1536,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1201,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1201,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2890,Modern Chandelier,Not Applicable,High: > 2252,1,2890,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2251,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2251,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3378,Modern Chandelier,Not Applicable,High: > 2252,1,3378,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2335,Modern Chandelier,Not Applicable,High: > 2252,1,2335,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,125,LED Downlight,Not Applicable,Low: <= 174,8,1000,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3005,Modern Chandelier,Not Applicable,High: > 2252,1,3005,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2674,Modern Chandelier,Not Applicable,High: > 2252,1,2674,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3287,Modern Chandelier,Not Applicable,High: > 2252,1,3287,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3310,Modern Chandelier,Not Applicable,High: > 2252,1,3310,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2598,Modern Chandelier,Not Applicable,High: > 2252,1,2598,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1428,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1428,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,97,LED Downlight,Not Applicable,Low: <= 174,8,776,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,118,LED Downlight,Not Applicable,Low: <= 174,8,944,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,162,LED Spotlight,Not Applicable,Low: <= 174,4,648,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,161,LED Spotlight,Not Applicable,Low: <= 174,4,644,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1675,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1675,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,111,LED Downlight,Not Applicable,Low: <= 174,8,888,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2616,Modern Chandelier,Not Applicable,High: > 2252,1,2616,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1710,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1710,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1466,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1466,Electrical
+Venus Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,124,LED Bulb,Not Applicable,Low: <= 174,4,496,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,93,LED Downlight,Not Applicable,Low: <= 174,8,744,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2022,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2022,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3121,Modern Chandelier,Not Applicable,High: > 2252,1,3121,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1720,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1720,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,97,LED Downlight,Not Applicable,Low: <= 174,8,776,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2953,Modern Chandelier,Not Applicable,High: > 2252,1,2953,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2810,Modern Chandelier,Not Applicable,High: > 2252,1,2810,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,138,LED Downlight,Not Applicable,Low: <= 174,8,1104,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,140,LED Spotlight,Not Applicable,Low: <= 174,4,560,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2738,Modern Chandelier,Not Applicable,High: > 2252,1,2738,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,110,LED Downlight,Not Applicable,Low: <= 174,8,880,Electrical
+El Sewedy Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,88,LED Bulb,Not Applicable,Low: <= 174,4,352,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,124,LED Spotlight,Not Applicable,Low: <= 174,4,496,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1479,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1479,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2244,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2244,Electrical
+Venus Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,108,LED Bulb,Not Applicable,Low: <= 174,4,432,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,81,LED Downlight,Not Applicable,Low: <= 174,8,648,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,160,LED Downlight,Not Applicable,Low: <= 174,8,1280,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,66,LED Spotlight,Not Applicable,Low: <= 174,4,264,Electrical
+Venus Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,94,LED Bulb,Not Applicable,Low: <= 174,4,376,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2209,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2209,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2154,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2154,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3009,Modern Chandelier,Not Applicable,High: > 2252,1,3009,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Medium,8.8,Piece,Per_Reception,8,Reception,False,177,LED Downlight,Not Applicable,Medium: 174 - 2252,8,1416,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1470,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1470,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,100,LED Downlight,Not Applicable,Low: <= 174,8,800,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1975,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1975,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1623,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1623,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1808,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1808,Electrical
+Philips,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,99,LED Bulb,Not Applicable,Low: <= 174,4,396,Electrical
+Opple,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,69,LED Spotlight,Not Applicable,Low: <= 174,4,276,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2997,Modern Chandelier,Not Applicable,High: > 2252,1,2997,Electrical
+Opple,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,70,LED Spotlight,Not Applicable,Low: <= 174,4,280,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3359,Modern Chandelier,Not Applicable,High: > 2252,1,3359,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3368,Modern Chandelier,Not Applicable,High: > 2252,1,3368,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,156,LED Downlight,Not Applicable,Low: <= 174,8,1248,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1342,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1342,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2816,Modern Chandelier,Not Applicable,High: > 2252,1,2816,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3292,Modern Chandelier,Not Applicable,High: > 2252,1,3292,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,78,LED Spotlight,Not Applicable,Low: <= 174,4,312,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2521,Modern Chandelier,Not Applicable,High: > 2252,1,2521,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1882,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1882,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,135,LED Downlight,Not Applicable,Low: <= 174,8,1080,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1436,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1436,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2180,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2180,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,124,LED Downlight,Not Applicable,Low: <= 174,8,992,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2269,Modern Chandelier,Not Applicable,High: > 2252,1,2269,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,78,LED Spotlight,Not Applicable,Low: <= 174,4,312,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3131,Modern Chandelier,Not Applicable,High: > 2252,1,3131,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Medium,8.8,Piece,Per_Reception,8,Reception,False,174,LED Downlight,Not Applicable,Medium: 174 - 2252,8,1392,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1963,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1963,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,89,LED Downlight,Not Applicable,Low: <= 174,8,712,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2600,Modern Chandelier,Not Applicable,High: > 2252,1,2600,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2338,Modern Chandelier,Not Applicable,High: > 2252,1,2338,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1339,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1339,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1543,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1543,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,57,LED Spotlight,Not Applicable,Low: <= 174,4,228,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3419,Modern Chandelier,Not Applicable,High: > 2252,1,3419,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,129,LED Downlight,Not Applicable,Low: <= 174,8,1032,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,108,LED Downlight,Not Applicable,Low: <= 174,8,864,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3398,Modern Chandelier,Not Applicable,High: > 2252,1,3398,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2691,Modern Chandelier,Not Applicable,High: > 2252,1,2691,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2178,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2178,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2723,Modern Chandelier,Not Applicable,High: > 2252,1,2723,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1679,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1679,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2377,Modern Chandelier,Not Applicable,High: > 2252,1,2377,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,113,LED Spotlight,Not Applicable,Low: <= 174,4,452,Electrical
+Opple,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,78,LED Spotlight,Not Applicable,Low: <= 174,4,312,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1876,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1876,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,92,LED Spotlight,Not Applicable,Low: <= 174,4,368,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,167,LED Downlight,Not Applicable,Low: <= 174,8,1336,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1287,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1287,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2447,Modern Chandelier,Not Applicable,High: > 2252,1,2447,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1819,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1819,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1303,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1303,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1339,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1339,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,78,LED Downlight,Not Applicable,Low: <= 174,8,624,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2133,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2133,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1586,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1586,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1960,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1960,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,79,LED Spotlight,Not Applicable,Low: <= 174,4,316,Electrical
+Opple,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,150,LED Bulb,Not Applicable,Low: <= 174,4,600,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3118,Modern Chandelier,Not Applicable,High: > 2252,1,3118,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2109,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2109,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,93,LED Spotlight,Not Applicable,Low: <= 174,4,372,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1776,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1776,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3025,Modern Chandelier,Not Applicable,High: > 2252,1,3025,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,152,LED Downlight,Not Applicable,Low: <= 174,8,1216,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1785,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1785,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,71,LED Downlight,Not Applicable,Low: <= 174,8,568,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1379,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1379,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2589,Modern Chandelier,Not Applicable,High: > 2252,1,2589,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3491,Modern Chandelier,Not Applicable,High: > 2252,1,3491,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3114,Modern Chandelier,Not Applicable,High: > 2252,1,3114,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,153,LED Downlight,Not Applicable,Low: <= 174,8,1224,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1444,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1444,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2261,Modern Chandelier,Not Applicable,High: > 2252,1,2261,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2668,Modern Chandelier,Not Applicable,High: > 2252,1,2668,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,88,LED Spotlight,Not Applicable,Low: <= 174,4,352,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1336,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1336,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,157,LED Downlight,Not Applicable,Low: <= 174,8,1256,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1381,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1381,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2794,Modern Chandelier,Not Applicable,High: > 2252,1,2794,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,69,LED Downlight,Not Applicable,Low: <= 174,8,552,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2327,Modern Chandelier,Not Applicable,High: > 2252,1,2327,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2398,Modern Chandelier,Not Applicable,High: > 2252,1,2398,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1997,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1997,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3457,Modern Chandelier,Not Applicable,High: > 2252,1,3457,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,56,LED Downlight,Not Applicable,Low: <= 174,8,448,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2583,Modern Chandelier,Not Applicable,High: > 2252,1,2583,Electrical
+Opple,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,80,LED Spotlight,Not Applicable,Low: <= 174,4,320,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1248,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1248,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1854,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1854,Electrical
+Osram,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,119,LED Bulb,Not Applicable,Low: <= 174,4,476,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,136,LED Spotlight,Not Applicable,Low: <= 174,4,544,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3259,Modern Chandelier,Not Applicable,High: > 2252,1,3259,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1486,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1486,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1778,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1778,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2512,Modern Chandelier,Not Applicable,High: > 2252,1,2512,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1943,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1943,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,142,LED Downlight,Not Applicable,Low: <= 174,8,1136,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3214,Modern Chandelier,Not Applicable,High: > 2252,1,3214,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,156,LED Spotlight,Not Applicable,Low: <= 174,4,624,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3292,Modern Chandelier,Not Applicable,High: > 2252,1,3292,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1284,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1284,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,117,LED Downlight,Not Applicable,Low: <= 174,8,936,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2341,Modern Chandelier,Not Applicable,High: > 2252,1,2341,Electrical
+Opple,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,74,LED Bulb,Not Applicable,Low: <= 174,4,296,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1860,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1860,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2003,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2003,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,118,LED Downlight,Not Applicable,Low: <= 174,8,944,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,74,LED Spotlight,Not Applicable,Low: <= 174,4,296,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2901,Modern Chandelier,Not Applicable,High: > 2252,1,2901,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2009,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2009,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3250,Modern Chandelier,Not Applicable,High: > 2252,1,3250,Electrical
+Opple,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,138,LED Spotlight,Not Applicable,Low: <= 174,4,552,Electrical
+Philips,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,62,LED Bulb,Not Applicable,Low: <= 174,4,248,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2368,Modern Chandelier,Not Applicable,High: > 2252,1,2368,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2303,Modern Chandelier,Not Applicable,High: > 2252,1,2303,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2610,Modern Chandelier,Not Applicable,High: > 2252,1,2610,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,148,LED Downlight,Not Applicable,Low: <= 174,8,1184,Electrical
+Venus Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,150,LED Bulb,Not Applicable,Low: <= 174,4,600,Electrical
+El Sewedy Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,166,LED Bulb,Not Applicable,Low: <= 174,4,664,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2466,Modern Chandelier,Not Applicable,High: > 2252,1,2466,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2453,Modern Chandelier,Not Applicable,High: > 2252,1,2453,Electrical
+Osram,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,108,LED Bulb,Not Applicable,Low: <= 174,4,432,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2940,Modern Chandelier,Not Applicable,High: > 2252,1,2940,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,141,LED Downlight,Not Applicable,Low: <= 174,8,1128,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,96,LED Downlight,Not Applicable,Low: <= 174,8,768,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1866,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1866,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1316,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1316,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2995,Modern Chandelier,Not Applicable,High: > 2252,1,2995,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,163,LED Downlight,Not Applicable,Low: <= 174,8,1304,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,68,LED Downlight,Not Applicable,Low: <= 174,8,544,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1775,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1775,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1756,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1756,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1274,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1274,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3319,Modern Chandelier,Not Applicable,High: > 2252,1,3319,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2344,Modern Chandelier,Not Applicable,High: > 2252,1,2344,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,72,LED Downlight,Not Applicable,Low: <= 174,8,576,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1284,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1284,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1274,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1274,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2099,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2099,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2610,Modern Chandelier,Not Applicable,High: > 2252,1,2610,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,172,LED Spotlight,Not Applicable,Low: <= 174,4,688,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Medium,8.8,Piece,Per_Reception,8,Reception,False,179,LED Downlight,Not Applicable,Medium: 174 - 2252,8,1432,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,79,LED Downlight,Not Applicable,Low: <= 174,8,632,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3137,Modern Chandelier,Not Applicable,High: > 2252,1,3137,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,55,LED Downlight,Not Applicable,Low: <= 174,8,440,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2139,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2139,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3402,Modern Chandelier,Not Applicable,High: > 2252,1,3402,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,151,LED Downlight,Not Applicable,Low: <= 174,8,1208,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1611,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1611,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,123,LED Spotlight,Not Applicable,Low: <= 174,4,492,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Medium,8.8,Piece,Per_Reception,8,Reception,False,175,LED Downlight,Not Applicable,Medium: 174 - 2252,8,1400,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1855,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1855,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3461,Modern Chandelier,Not Applicable,High: > 2252,1,3461,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2528,Modern Chandelier,Not Applicable,High: > 2252,1,2528,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,97,LED Spotlight,Not Applicable,Low: <= 174,4,388,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3241,Modern Chandelier,Not Applicable,High: > 2252,1,3241,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,135,LED Downlight,Not Applicable,Low: <= 174,8,1080,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1980,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1980,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2671,Modern Chandelier,Not Applicable,High: > 2252,1,2671,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2370,Modern Chandelier,Not Applicable,High: > 2252,1,2370,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,67,LED Downlight,Not Applicable,Low: <= 174,8,536,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1927,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1927,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,73,LED Spotlight,Not Applicable,Low: <= 174,4,292,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2934,Modern Chandelier,Not Applicable,High: > 2252,1,2934,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1903,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1903,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,126,LED Downlight,Not Applicable,Low: <= 174,8,1008,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3468,Modern Chandelier,Not Applicable,High: > 2252,1,3468,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2385,Modern Chandelier,Not Applicable,High: > 2252,1,2385,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2043,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2043,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1707,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1707,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2842,Modern Chandelier,Not Applicable,High: > 2252,1,2842,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1394,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1394,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1981,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1981,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1559,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1559,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,60,LED Spotlight,Not Applicable,Low: <= 174,4,240,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,81,LED Spotlight,Not Applicable,Low: <= 174,4,324,Electrical
+Venus Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,91,LED Bulb,Not Applicable,Low: <= 174,4,364,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,124,LED Downlight,Not Applicable,Low: <= 174,8,992,Electrical
+El Sewedy Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,80,LED Bulb,Not Applicable,Low: <= 174,4,320,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,169,LED Downlight,Not Applicable,Low: <= 174,8,1352,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1419,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1419,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1722,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1722,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,135,LED Downlight,Not Applicable,Low: <= 174,8,1080,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3200,Modern Chandelier,Not Applicable,High: > 2252,1,3200,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2690,Modern Chandelier,Not Applicable,High: > 2252,1,2690,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2436,Modern Chandelier,Not Applicable,High: > 2252,1,2436,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,58,LED Downlight,Not Applicable,Low: <= 174,8,464,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2337,Modern Chandelier,Not Applicable,High: > 2252,1,2337,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,137,LED Downlight,Not Applicable,Low: <= 174,8,1096,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,143,LED Downlight,Not Applicable,Low: <= 174,8,1144,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2863,Modern Chandelier,Not Applicable,High: > 2252,1,2863,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1767,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1767,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3068,Modern Chandelier,Not Applicable,High: > 2252,1,3068,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2352,Modern Chandelier,Not Applicable,High: > 2252,1,2352,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3228,Modern Chandelier,Not Applicable,High: > 2252,1,3228,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,59,LED Downlight,Not Applicable,Low: <= 174,8,472,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2889,Modern Chandelier,Not Applicable,High: > 2252,1,2889,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,60,LED Spotlight,Not Applicable,Low: <= 174,4,240,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,84,LED Downlight,Not Applicable,Low: <= 174,8,672,Electrical
+Opple,LED Bulb,Electrical,9W,Bedrooms,9,Medium,7.2,Piece,Per_Room,4,Bedroom,False,179,LED Bulb,Not Applicable,Medium: 174 - 2252,4,716,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2038,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2038,Electrical
+Philips,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,58,LED Bulb,Not Applicable,Low: <= 174,4,232,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3145,Modern Chandelier,Not Applicable,High: > 2252,1,3145,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2819,Modern Chandelier,Not Applicable,High: > 2252,1,2819,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2724,Modern Chandelier,Not Applicable,High: > 2252,1,2724,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,144,LED Downlight,Not Applicable,Low: <= 174,8,1152,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,89,LED Downlight,Not Applicable,Low: <= 174,8,712,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1951,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1951,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1816,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1816,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,157,LED Downlight,Not Applicable,Low: <= 174,8,1256,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,168,LED Downlight,Not Applicable,Low: <= 174,8,1344,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2421,Modern Chandelier,Not Applicable,High: > 2252,1,2421,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1744,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1744,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1970,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1970,Electrical
+Osram,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,64,LED Bulb,Not Applicable,Low: <= 174,4,256,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3276,Modern Chandelier,Not Applicable,High: > 2252,1,3276,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,108,LED Spotlight,Not Applicable,Low: <= 174,4,432,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1461,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1461,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,155,LED Downlight,Not Applicable,Low: <= 174,8,1240,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,90,LED Downlight,Not Applicable,Low: <= 174,8,720,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2135,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2135,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2037,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2037,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2246,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2246,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3447,Modern Chandelier,Not Applicable,High: > 2252,1,3447,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2231,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2231,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1495,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1495,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3240,Modern Chandelier,Not Applicable,High: > 2252,1,3240,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3449,Modern Chandelier,Not Applicable,High: > 2252,1,3449,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,121,LED Downlight,Not Applicable,Low: <= 174,8,968,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2814,Modern Chandelier,Not Applicable,High: > 2252,1,2814,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1736,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1736,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1423,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1423,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,154,LED Downlight,Not Applicable,Low: <= 174,8,1232,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2917,Modern Chandelier,Not Applicable,High: > 2252,1,2917,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2477,Modern Chandelier,Not Applicable,High: > 2252,1,2477,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1816,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1816,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1246,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1246,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3197,Modern Chandelier,Not Applicable,High: > 2252,1,3197,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3479,Modern Chandelier,Not Applicable,High: > 2252,1,3479,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1396,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1396,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2634,Modern Chandelier,Not Applicable,High: > 2252,1,2634,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1912,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1912,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Medium,8.8,Piece,Per_Reception,8,Reception,False,178,LED Downlight,Not Applicable,Medium: 174 - 2252,8,1424,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,71,LED Downlight,Not Applicable,Low: <= 174,8,568,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,128,LED Spotlight,Not Applicable,Low: <= 174,4,512,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,57,LED Spotlight,Not Applicable,Low: <= 174,4,228,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1476,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1476,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1624,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1624,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2846,Modern Chandelier,Not Applicable,High: > 2252,1,2846,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1268,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1268,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1486,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1486,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,154,LED Spotlight,Not Applicable,Low: <= 174,4,616,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3446,Modern Chandelier,Not Applicable,High: > 2252,1,3446,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2482,Modern Chandelier,Not Applicable,High: > 2252,1,2482,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1350,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1350,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,128,LED Downlight,Not Applicable,Low: <= 174,8,1024,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2979,Modern Chandelier,Not Applicable,High: > 2252,1,2979,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2866,Modern Chandelier,Not Applicable,High: > 2252,1,2866,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2418,Modern Chandelier,Not Applicable,High: > 2252,1,2418,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2715,Modern Chandelier,Not Applicable,High: > 2252,1,2715,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2383,Modern Chandelier,Not Applicable,High: > 2252,1,2383,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,124,LED Downlight,Not Applicable,Low: <= 174,8,992,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1968,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1968,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2932,Modern Chandelier,Not Applicable,High: > 2252,1,2932,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,129,LED Downlight,Not Applicable,Low: <= 174,8,1032,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1979,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1979,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,160,LED Spotlight,Not Applicable,Low: <= 174,4,640,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3219,Modern Chandelier,Not Applicable,High: > 2252,1,3219,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2440,Modern Chandelier,Not Applicable,High: > 2252,1,2440,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2918,Modern Chandelier,Not Applicable,High: > 2252,1,2918,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1343,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1343,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3208,Modern Chandelier,Not Applicable,High: > 2252,1,3208,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,162,LED Downlight,Not Applicable,Low: <= 174,8,1296,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,86,LED Spotlight,Not Applicable,Low: <= 174,4,344,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,101,LED Downlight,Not Applicable,Low: <= 174,8,808,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3312,Modern Chandelier,Not Applicable,High: > 2252,1,3312,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,113,LED Spotlight,Not Applicable,Low: <= 174,4,452,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2648,Modern Chandelier,Not Applicable,High: > 2252,1,2648,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3344,Modern Chandelier,Not Applicable,High: > 2252,1,3344,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3470,Modern Chandelier,Not Applicable,High: > 2252,1,3470,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2946,Modern Chandelier,Not Applicable,High: > 2252,1,2946,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2895,Modern Chandelier,Not Applicable,High: > 2252,1,2895,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,133,LED Downlight,Not Applicable,Low: <= 174,8,1064,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2618,Modern Chandelier,Not Applicable,High: > 2252,1,2618,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3028,Modern Chandelier,Not Applicable,High: > 2252,1,3028,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2705,Modern Chandelier,Not Applicable,High: > 2252,1,2705,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2895,Modern Chandelier,Not Applicable,High: > 2252,1,2895,Electrical
+Opple,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,126,LED Bulb,Not Applicable,Low: <= 174,4,504,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3065,Modern Chandelier,Not Applicable,High: > 2252,1,3065,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,110,LED Downlight,Not Applicable,Low: <= 174,8,880,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1322,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1322,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1749,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1749,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2782,Modern Chandelier,Not Applicable,High: > 2252,1,2782,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2941,Modern Chandelier,Not Applicable,High: > 2252,1,2941,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1430,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1430,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1695,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1695,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1470,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1470,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,119,LED Downlight,Not Applicable,Low: <= 174,8,952,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3300,Modern Chandelier,Not Applicable,High: > 2252,1,3300,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1894,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1894,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1799,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1799,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,151,LED Spotlight,Not Applicable,Low: <= 174,4,604,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3414,Modern Chandelier,Not Applicable,High: > 2252,1,3414,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2132,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2132,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1295,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1295,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,82,LED Downlight,Not Applicable,Low: <= 174,8,656,Electrical
+Venus Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,159,LED Spotlight,Not Applicable,Low: <= 174,4,636,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,88,LED Downlight,Not Applicable,Low: <= 174,8,704,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1512,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1512,Electrical
+El Sewedy Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,67,LED Bulb,Not Applicable,Low: <= 174,4,268,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2519,Modern Chandelier,Not Applicable,High: > 2252,1,2519,Electrical
+El Sewedy Electric,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,173,LED Spotlight,Not Applicable,Low: <= 174,4,692,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2956,Modern Chandelier,Not Applicable,High: > 2252,1,2956,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3448,Modern Chandelier,Not Applicable,High: > 2252,1,3448,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2059,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2059,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1762,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1762,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,120,LED Downlight,Not Applicable,Low: <= 174,8,960,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2624,Modern Chandelier,Not Applicable,High: > 2252,1,2624,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1719,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1719,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2984,Modern Chandelier,Not Applicable,High: > 2252,1,2984,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,133,LED Downlight,Not Applicable,Low: <= 174,8,1064,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1453,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1453,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1293,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1293,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1535,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1535,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2698,Modern Chandelier,Not Applicable,High: > 2252,1,2698,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1565,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1565,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3077,Modern Chandelier,Not Applicable,High: > 2252,1,3077,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,111,LED Downlight,Not Applicable,Low: <= 174,8,888,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Medium,8.8,Piece,Per_Reception,8,Reception,False,177,LED Downlight,Not Applicable,Medium: 174 - 2252,8,1416,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,78,LED Downlight,Not Applicable,Low: <= 174,8,624,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1722,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1722,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1356,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1356,Electrical
+Venus Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,146,LED Bulb,Not Applicable,Low: <= 174,4,584,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3313,Modern Chandelier,Not Applicable,High: > 2252,1,3313,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2706,Modern Chandelier,Not Applicable,High: > 2252,1,2706,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,122,LED Downlight,Not Applicable,Low: <= 174,8,976,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,81,LED Downlight,Not Applicable,Low: <= 174,8,648,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2266,Modern Chandelier,Not Applicable,High: > 2252,1,2266,Electrical
+Osram,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,147,LED Bulb,Not Applicable,Low: <= 174,4,588,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2413,Modern Chandelier,Not Applicable,High: > 2252,1,2413,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2346,Modern Chandelier,Not Applicable,High: > 2252,1,2346,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1504,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1504,Electrical
+Philips,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,81,LED Bulb,Not Applicable,Low: <= 174,4,324,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1457,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1457,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1447,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1447,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,55,LED Downlight,Not Applicable,Low: <= 174,8,440,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,76,LED Downlight,Not Applicable,Low: <= 174,8,608,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3461,Modern Chandelier,Not Applicable,High: > 2252,1,3461,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3435,Modern Chandelier,Not Applicable,High: > 2252,1,3435,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,165,LED Downlight,Not Applicable,Low: <= 174,8,1320,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,65,LED Spotlight,Not Applicable,Low: <= 174,4,260,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,113,LED Downlight,Not Applicable,Low: <= 174,8,904,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3032,Modern Chandelier,Not Applicable,High: > 2252,1,3032,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,134,LED Downlight,Not Applicable,Low: <= 174,8,1072,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1985,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1985,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2981,Modern Chandelier,Not Applicable,High: > 2252,1,2981,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1221,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1221,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1294,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1294,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2998,Modern Chandelier,Not Applicable,High: > 2252,1,2998,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2886,Modern Chandelier,Not Applicable,High: > 2252,1,2886,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2782,Modern Chandelier,Not Applicable,High: > 2252,1,2782,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3237,Modern Chandelier,Not Applicable,High: > 2252,1,3237,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1245,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1245,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2066,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2066,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,114,LED Downlight,Not Applicable,Low: <= 174,8,912,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1802,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1802,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3285,Modern Chandelier,Not Applicable,High: > 2252,1,3285,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2279,Modern Chandelier,Not Applicable,High: > 2252,1,2279,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2742,Modern Chandelier,Not Applicable,High: > 2252,1,2742,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1511,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1511,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3401,Modern Chandelier,Not Applicable,High: > 2252,1,3401,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2979,Modern Chandelier,Not Applicable,High: > 2252,1,2979,Electrical
+Osram,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,154,LED Bulb,Not Applicable,Low: <= 174,4,616,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,67,LED Downlight,Not Applicable,Low: <= 174,8,536,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2088,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2088,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3448,Modern Chandelier,Not Applicable,High: > 2252,1,3448,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2075,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2075,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3429,Modern Chandelier,Not Applicable,High: > 2252,1,3429,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2142,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2142,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2482,Modern Chandelier,Not Applicable,High: > 2252,1,2482,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,73,LED Downlight,Not Applicable,Low: <= 174,8,584,Electrical
+El Sewedy Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,145,LED Downlight,Not Applicable,Low: <= 174,8,1160,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2157,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2157,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1877,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1877,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1357,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1357,Electrical
+Opple,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,88,LED Bulb,Not Applicable,Low: <= 174,4,352,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3473,Modern Chandelier,Not Applicable,High: > 2252,1,3473,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3020,Modern Chandelier,Not Applicable,High: > 2252,1,3020,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Medium,8.8,Piece,Per_Reception,8,Reception,False,176,LED Downlight,Not Applicable,Medium: 174 - 2252,8,1408,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1890,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1890,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1284,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1284,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,166,LED Spotlight,Not Applicable,Low: <= 174,4,664,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1372,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1372,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1839,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1839,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2435,Modern Chandelier,Not Applicable,High: > 2252,1,2435,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1251,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1251,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2162,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2162,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2868,Modern Chandelier,Not Applicable,High: > 2252,1,2868,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2471,Modern Chandelier,Not Applicable,High: > 2252,1,2471,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3143,Modern Chandelier,Not Applicable,High: > 2252,1,3143,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,144,LED Downlight,Not Applicable,Low: <= 174,8,1152,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1856,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1856,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1296,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1296,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3348,Modern Chandelier,Not Applicable,High: > 2252,1,3348,Electrical
+Opple,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,169,LED Downlight,Not Applicable,Low: <= 174,8,1352,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1328,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1328,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1581,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1581,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1232,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1232,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1705,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1705,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,2084,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,2084,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2413,Modern Chandelier,Not Applicable,High: > 2252,1,2413,Electrical
+Opple,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,130,LED Spotlight,Not Applicable,Low: <= 174,4,520,Electrical
+Osram,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,141,LED Spotlight,Not Applicable,Low: <= 174,4,564,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1712,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1712,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2589,Modern Chandelier,Not Applicable,High: > 2252,1,2589,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2311,Modern Chandelier,Not Applicable,High: > 2252,1,2311,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2639,Modern Chandelier,Not Applicable,High: > 2252,1,2639,Electrical
+El Sewedy Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1781,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1781,Electrical
+Venus Electric,LED Downlight,Electrical,18W Recessed,Reception,18,Medium,8.8,Piece,Per_Reception,8,Reception,False,178,LED Downlight,Not Applicable,Medium: 174 - 2252,8,1424,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3237,Modern Chandelier,Not Applicable,High: > 2252,1,3237,Electrical
+Opple,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,166,LED Bulb,Not Applicable,Low: <= 174,4,664,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2787,Modern Chandelier,Not Applicable,High: > 2252,1,2787,Electrical
+Philips,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,116,LED Downlight,Not Applicable,Low: <= 174,8,928,Electrical
+Osram,LED Downlight,Electrical,18W Recessed,Reception,18,Low,8.8,Piece,Per_Reception,8,Reception,False,136,LED Downlight,Not Applicable,Low: <= 174,8,1088,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1618,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1618,Electrical
+Osram,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,3424,Modern Chandelier,Not Applicable,High: > 2252,1,3424,Electrical
+El Sewedy Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,66,LED Bulb,Not Applicable,Low: <= 174,4,264,Electrical
+El Sewedy Electric,LED Bulb,Electrical,9W,Bedrooms,9,Low,7.2,Piece,Per_Room,4,Bedroom,False,159,LED Bulb,Not Applicable,Low: <= 174,4,636,Electrical
+Opple,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2850,Modern Chandelier,Not Applicable,High: > 2252,1,2850,Electrical
+Venus Electric,Modern Chandelier,Electrical,6 Lights LED,Reception,36,High,8.5,Piece,Per_Reception,1,Reception,True,2649,Modern Chandelier,Not Applicable,High: > 2252,1,2649,Electrical
+Philips,Modern Chandelier,Electrical,6 Lights LED,Reception,36,Medium,8.5,Piece,Per_Reception,1,Reception,True,1237,Modern Chandelier,Not Applicable,Medium: 174 - 2252,1,1237,Electrical
+Philips,LED Spotlight,Electrical,7W Recessed,Bedrooms,7,Low,7.5,Piece,Per_Room,4,Bedroom,False,112,LED Spotlight,Not Applicable,Low: <= 174,4,448,Electrical

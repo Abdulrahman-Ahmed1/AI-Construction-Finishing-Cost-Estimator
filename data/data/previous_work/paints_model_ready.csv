@@ -1,0 +1,151 @@
+Brand,Product_Name,Paint_Category,Paint_Type,Finish,Application,Quality_Level,Quality_Score,Coverage_m2_per_L,Coats,Unit,Waste_Factor,Quantity_Rule,Rule_Value,Required_For,Optional,Price_EGP,Category,Subcategory,Grade,Quality_Price_Band,Apartment_Area_m2,Estimated_Paintable_Area_m2,Estimated_Quantity_L,Estimated_Total_Cost,Finishing_Category
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,95,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6270.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,166,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10956.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,219,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14454.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,205,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,13530.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,171,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,11286.0,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,35,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1030.9090909090908,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,52,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1531.6363636363635,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,123,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8118.0,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,40,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1178.181818181818,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,37,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1089.8181818181818,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,96,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6336.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,108,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7128.0,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,50,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1472.7272727272727,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,46,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1354.9090909090908,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,183,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12078.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,139,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9174.0,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,51,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1502.181818181818,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,193,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12738.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,129,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8514.0,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,45,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1325.4545454545455,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Medium,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,59,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,29.454545454545453,1737.8181818181818,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,56,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1649.4545454545455,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,173,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,11418.0,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,44,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1296.0,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,53,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1561.090909090909,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,147,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9702.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,215,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14190.0,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,49,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1443.2727272727273,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,56,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1649.4545454545455,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,111,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7326.0,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,36,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1060.3636363636363,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,116,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7656.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,186,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12276.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,190,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12540.0,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,41,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1207.6363636363635,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,97,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6402.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,155,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10230.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,106,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6996.0,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Medium,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,57,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,29.454545454545453,1678.9090909090908,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,146,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9636.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,113,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7458.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,131,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8646.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,191,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12606.0,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,50,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1472.7272727272727,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,107,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7062.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,177,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,11682.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,134,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8844.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,125,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8250.0,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,35,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1030.9090909090908,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,41,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1207.6363636363635,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,206,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,13596.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,184,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12144.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,172,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,11352.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,165,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10890.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,159,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10494.0,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,52,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1531.6363636363635,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,43,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1266.5454545454545,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,37,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1089.8181818181818,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,185,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12210.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,145,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9570.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,105,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6930.0,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Medium,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,57,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,29.454545454545453,1678.9090909090908,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Medium,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,57,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,29.454545454545453,1678.9090909090908,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,56,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1649.4545454545455,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,194,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12804.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,156,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10296.0,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,51,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1502.181818181818,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,100,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6600.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,175,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,11550.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,115,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7590.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,195,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12870.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,208,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,13728.0,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,39,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1148.7272727272727,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,35,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1030.9090909090908,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,46,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1354.9090909090908,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,139,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9174.0,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,47,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1384.3636363636363,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,147,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9702.0,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,45,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1325.4545454545455,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,44,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1296.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,216,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14256.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,138,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9108.0,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Medium,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,59,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,29.454545454545453,1737.8181818181818,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,128,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8448.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,209,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,13794.0,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Medium,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,58,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,29.454545454545453,1708.3636363636363,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,164,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10824.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,213,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14058.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,94,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6204.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,126,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8316.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,111,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7326.0,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,48,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1413.8181818181818,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,45,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1325.4545454545455,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,42,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1237.090909090909,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,113,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7458.0,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,49,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1443.2727272727273,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,173,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,11418.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,160,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10560.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,162,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10692.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,113,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7458.0,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,55,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1620.0,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,48,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1413.8181818181818,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,186,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12276.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,91,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6006.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,105,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6930.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,216,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14256.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,124,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8184.0,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,43,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1266.5454545454545,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,39,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1148.7272727272727,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,190,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12540.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,214,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14124.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,131,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8646.0,Paints
+SCIB,Interior Primer,Interior,Primer,Matte,Walls,Medium,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,58,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,29.454545454545453,1708.3636363636363,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,56,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1649.4545454545455,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,102,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6732.0,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,55,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1620.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,139,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9174.0,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,49,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1443.2727272727273,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,218,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14388.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,147,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9702.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,219,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14454.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,135,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,8910.0,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,35,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1030.9090909090908,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,51,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1502.181818181818,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,201,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,13266.0,Paints
+Jotun,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,50,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1472.7272727272727,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,166,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10956.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,158,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10428.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,146,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9636.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,204,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,13464.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,213,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14058.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,217,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14322.0,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,190,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,12540.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,119,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7854.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,163,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10758.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,171,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,11286.0,Paints
+GLC,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,52,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1531.6363636363635,Paints
+Jotun,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,143,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,9438.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,218,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14388.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,216,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,14256.0,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,55,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1620.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,159,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10494.0,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,163,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10758.0,Paints
+Pachin,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,52,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1531.6363636363635,Paints
+GLC,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,112,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,7392.0,Paints
+SCIB,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,174,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,11484.0,Paints
+Pachin,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,148,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,9768.0,Paints
+Sipes,Interior Primer,Interior,Primer,Matte,Walls,Low,7.2,11,1,Liter,0.08,Paintable_Area/Coverage,1,Walls,False,39,Paints,Interior,Not Applicable,Low: <= 56,100,300,29.454545454545453,1148.7272727272727,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,Medium,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,105,Paints,Interior,Not Applicable,Medium: 56 - 147,100,300,66.0,6930.0,Paints
+Sipes,Interior Top Coat,Interior,Top Coat,Matte,Walls,High,8.5,10,2,Liter,0.1,Paintable_Area/Coverage,1,Walls,False,165,Paints,Interior,Not Applicable,High: > 147,100,300,66.0,10890.0,Paints

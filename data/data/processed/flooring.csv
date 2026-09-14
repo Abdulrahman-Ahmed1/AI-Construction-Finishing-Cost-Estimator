@@ -1,0 +1,1005 @@
+Finishing_Category,Brand,Product_Name,Floor_Type,Subcategory,Grade,Size_cm,Application,Quality_Level,Quality_Score,Unit,Waste_Factor,Quantity_Rule,Rule_Value,Required_For,Optional,Price_EGP,Category,Source_File,Price_Outlier
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,701,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,747,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,247,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,238,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,354,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,260,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,324,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,751,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,679,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,372,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,884,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,731,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,778,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,173,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,917,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,657,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,244,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,287,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,746,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,452,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,531,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,654,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,322,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,920,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,460,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,623,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,681,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,744,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,683,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,329,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,821,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,822,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,794,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,332,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,205,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,296,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,657,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,607,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,687,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,317,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,539,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,747,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,525,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,586,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,213,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,334,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,522,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,727,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,502,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,839,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,840,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,698,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,913,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,332,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,934,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,239,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,855,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,359,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,800,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,286,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,378,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,869,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,346,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,534,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,534,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,704,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,549,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,768,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,201,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,676,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,322,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,204,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,240,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,199,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,539,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,826,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,520,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,740,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,844,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,603,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,772,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,184,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,182,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,219,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,377,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,267,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,731,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,772,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,256,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,847,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,516,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,285,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,179,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,904,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,322,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,440,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,534,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,747,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,835,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,368,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,195,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,913,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,497,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,264,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,704,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,462,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,327,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,543,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,612,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,802,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,612,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,564,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,900,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,179,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,737,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,705,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,740,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,762,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,553,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,713,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,256,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,506,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,839,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,764,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,836,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,528,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,734,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,855,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,729,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,506,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,752,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,943,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,790,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,793,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,438,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,586,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,509,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,593,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,927,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,275,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,446,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,898,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,890,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,850,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,492,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,245,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,757,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,900,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,884,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,329,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,359,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,339,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,178,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,298,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,536,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,734,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,869,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,525,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,334,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,808,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,357,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,563,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,839,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,218,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,198,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,230,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,843,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,368,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,644,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,283,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,614,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,794,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,179,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,800,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,676,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,244,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,334,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,184,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,357,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,658,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,536,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,270,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,446,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,924,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,703,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,832,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,509,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,329,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,597,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,543,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,286,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,702,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,520,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,466,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,756,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,248,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,179,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,660,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,607,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,244,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,740,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,235,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,178,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,822,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,793,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,613,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,917,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,757,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,272,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,596,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,349,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,213,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,885,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,781,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,740,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,813,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,676,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,840,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,655,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,815,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,644,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,264,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,264,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,885,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,173,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,843,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,306,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,499,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,442,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,862,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,211,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,355,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,443,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,262,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,239,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,658,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,564,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,357,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,268,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,198,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,499,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,831,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,944,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,303,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,232,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,466,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,614,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,261,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,525,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,769,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,261,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,734,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,544,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,452,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,313,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,586,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,720,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,934,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,832,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,815,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,729,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,260,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,442,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,213,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,283,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,740,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,734,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,528,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,822,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,768,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,354,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,555,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,306,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,852,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,893,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,844,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,235,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,584,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,586,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,737,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,184,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,289,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,743,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,281,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,443,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,821,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,831,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,456,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,334,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,545,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,438,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,650,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,716,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,670,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,196,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,462,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,701,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,267,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,596,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,947,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,525,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,694,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,552,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,650,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,744,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,720,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,543,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,299,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,349,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,270,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,890,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,555,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,328,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,196,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,263,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,904,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,199,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,182,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,219,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,263,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,898,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,674,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,847,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,559,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,276,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,667,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,275,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,808,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,275,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,496,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,502,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,654,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,835,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,756,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,737,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,782,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,313,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,716,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,453,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,438,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,466,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,440,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,869,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,547,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,664,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,884,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,876,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,278,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,534,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,811,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,245,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,657,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,750,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,276,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,260,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,554,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,303,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,559,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,737,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,547,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,460,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,248,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,540,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,716,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,268,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,289,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,856,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,801,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,502,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,563,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,655,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,324,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,232,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,858,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,378,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,553,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,724,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,296,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,545,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,346,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,169,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,536,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,642,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,597,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,261,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,716,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,729,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,924,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,856,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,540,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,934,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,687,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,261,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,690,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,516,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,332,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,244,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,195,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,652,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,845,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,224,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,913,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,572,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,321,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,346,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,603,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,840,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,224,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,224,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,226,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,508,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,253,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,317,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,204,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,746,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,321,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,734,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,278,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,612,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,704,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,728,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,801,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,267,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,674,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,947,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,559,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,743,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,492,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,299,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,276,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,330,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,358,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,730,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,270,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,657,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,528,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,855,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,280,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,757,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,752,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,182,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,531,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,858,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,592,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,767,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,247,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,727,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,550,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,525,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,552,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,264,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,522,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,740,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,568,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,667,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,584,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,280,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,770,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,534,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,947,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,813,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,240,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,173,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,230,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,676,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,496,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,438,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,612,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,844,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,238,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,943,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,924,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,790,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,574,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,835,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,377,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,238,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,855,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,256,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,800,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,240,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,757,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,934,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,264,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,767,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,453,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,705,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,466,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,855,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,893,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,782,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,339,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,520,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,762,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,944,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,372,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,492,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,549,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,499,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,890,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,592,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,819,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,645,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,372,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,208,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,178,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,296,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,554,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,670,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,802,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,713,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,802,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,586,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,253,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,531,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,169,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,346,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,324,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,757,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,547,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,837,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,850,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,844,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,531,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,245,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,360,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,205,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,172,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,232,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,355,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,298,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,657,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,349,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,267,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,174,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,855,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,240,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,321,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,360,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,699,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,751,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,704,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,198,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,743,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,208,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,813,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,267,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,438,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,847,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,272,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,359,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,801,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,689,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,862,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,572,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,199,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,497,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,642,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,623,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,174,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,456,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,893,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,169,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,687,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,660,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,539,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,664,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,703,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,793,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,355,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,549,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,593,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,460,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,208,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,770,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,240,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,699,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,781,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,655,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,196,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,172,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,528,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,670,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,584,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,679,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,235,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,724,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,694,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,460,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,540,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,233,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,920,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,378,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,494,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,917,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,569,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,281,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,769,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,607,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,826,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,233,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,262,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,676,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,576,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,286,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,681,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,660,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,772,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,211,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,443,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,211,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,731,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,943,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,728,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,358,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,811,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,826,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,268,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,555,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,660,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,770,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,821,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,657,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,633,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,174,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,844,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,270,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,303,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,679,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,525,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,298,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,327,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,612,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,862,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,766,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,906,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,531,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,811,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,633,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,219,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,698,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,614,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,835,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,497,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,247,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,554,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,752,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,201,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,488,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,819,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,592,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,699,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,191,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,764,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,845,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,330,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,701,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,516,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,766,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,914,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,612,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,287,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,831,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,703,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,563,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,244,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,508,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,568,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,377,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,835,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,248,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,544,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,730,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,195,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,674,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,576,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,279,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,313,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,334,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,658,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,359,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,876,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,852,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,793,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,898,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,568,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,272,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,730,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,778,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,359,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,572,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,689,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,261,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,221,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,633,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,597,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,230,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,357,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,728,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,272,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,469,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,270,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,245,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,357,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,707,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,660,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,856,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,751,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,355,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,191,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,172,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,204,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,750,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,906,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,355,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,245,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,453,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,239,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,705,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,694,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,574,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,488,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,837,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,202,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,172,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,623,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,596,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,460,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,808,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,576,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,283,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,202,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,427,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,858,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,281,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,232,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,778,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,569,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,707,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,466,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,852,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,469,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,172,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,644,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,446,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,330,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,727,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,934,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,681,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,202,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,339,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,371,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,355,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,488,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,218,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,531,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,334,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,836,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,528,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,757,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,236,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,914,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,240,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,844,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,767,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,769,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,689,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,835,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,310,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,205,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,346,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,720,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,248,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,683,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,358,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,819,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,496,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,702,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,750,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,253,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,652,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,702,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,690,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,235,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,904,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,233,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,248,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,716,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,553,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,815,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,328,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,698,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,642,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,285,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,804,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,267,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,690,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,306,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,438,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,927,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,914,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,466,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,790,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,310,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,804,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,262,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,900,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,263,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,737,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,552,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,569,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,280,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,218,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,645,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,258,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,885,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,328,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,299,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,600,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,232,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,191,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,235,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,650,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,258,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,360,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,544,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,317,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,179,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,890,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,456,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,550,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,285,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,534,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,836,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,310,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,440,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,762,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,944,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,652,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,462,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,258,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,545,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,845,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,235,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,906,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,270,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,716,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,452,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,287,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,793,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,667,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,645,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,832,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,782,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,272,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,226,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,768,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,613,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,508,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,284,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,564,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,837,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,232,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,327,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,494,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,494,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,264,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,793,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,737,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,748,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,469,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,522,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,664,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,843,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,724,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,550,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,172,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,442,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,346,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,781,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,920,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,289,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,734,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,804,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,586,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,876,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,676,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,179,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,226,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,603,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,245,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,746,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,660,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,927,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,766,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,357,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,890,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,672,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,354,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,593,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,654,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,794,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,7.5,m2,0.1,Area_m2,1,Bedroom,False,272,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,278,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,934,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,460,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,574,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,683,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,756,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,8.7,m2,0.12,Area_m2,1,Reception,False,764,Flooring,flooring.csv,False
+Flooring,Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,244,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,8.7,m2,0.12,Area_m2,1,Reception,False,707,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,261,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,8.7,m2,0.12,Area_m2,1,Reception,False,427,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,713,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,744,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,265,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,427,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,8.7,m2,0.12,Area_m2,1,Reception,False,506,Flooring,flooring.csv,False
+Flooring,Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,8.7,m2,0.12,Area_m2,1,Reception,False,509,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,8.7,m2,0.12,Area_m2,1,Reception,False,528,Flooring,flooring.csv,False
+Flooring,Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,7.5,m2,0.1,Area_m2,1,Bedroom,False,368,Flooring,flooring.csv,False
+Flooring,Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,850,Flooring,flooring.csv,False
+Flooring,Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,201,Flooring,flooring.csv,False
+Flooring,Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedroom,False,248,Flooring,flooring.csv,False
+Flooring,Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,8.7,m2,0.12,Area_m2,1,Reception,False,613,Flooring,flooring.csv,False

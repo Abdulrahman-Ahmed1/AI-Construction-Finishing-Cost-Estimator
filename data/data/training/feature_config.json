@@ -1,0 +1,38 @@
+{
+  "feature_columns": [
+    "Apartment_Area_m2",
+    "Rooms",
+    "Bathrooms",
+    "Master_Bathrooms",
+    "Balconies",
+    "Receptions",
+    "Finishing_Level",
+    "Ceilings_Quality",
+    "Doors_Quality",
+    "Electrical_Basic_Quality",
+    "Electrical_Finishing_Quality",
+    "Flooring_Quality",
+    "Paints_Quality",
+    "Plumbing_Quality",
+    "Sanitary_Quality",
+    "Include_Reception_Ceiling_Upgrade",
+    "Include_Reception_Chandelier",
+    "Include_Master_Bathroom_Upgrade",
+    "Plumbing_System"
+  ],
+  "target_column": "Total_Finishing_Cost_EGP",
+  "category_cost_columns_excluded_from_features": [
+    "Ceilings_Cost",
+    "Doors_Cost",
+    "Electrical_Basic_Cost",
+    "Electrical_Finishing_Cost",
+    "Flooring_Cost",
+    "Paints_Cost",
+    "Plumbing_Cost",
+    "Sanitary_Cost",
+    "Labor_Cost",
+    "Auxiliary_Cost"
+  ],
+  "n_scenarios": 6000,
+  "random_seed": 42
+}

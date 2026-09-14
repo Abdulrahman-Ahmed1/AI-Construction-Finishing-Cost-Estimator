@@ -1,0 +1,1005 @@
+﻿Brand,Product_Name,Floor_Type,Subcategory,Grade,Size_cm,Application,Quality_Level,Quality_Score,Unit,Waste_Factor,Quantity_Rule,Rule_Value,Required_For,Optional,Price_EGP,Category,Size_Length_cm,Size_Width_cm,Tile_Area_m2,Price_per_m2,Price_Efficiency,Value_for_Money_Score
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,701,Flooring,60.0,120.0,0.72,701.0,0.7788873038516405,6.06
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,747,Flooring,60.0,120.0,0.72,747.0,0.7309236947791165,6.86
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,247,Flooring,60.0,60.0,0.36,247.0,2.210526315789474,7.6
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,238,Flooring,60.0,60.0,0.36,238.0,2.2941176470588234,9.4
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,354,Flooring,60.0,60.0,0.36,354.0,1.5423728813559323,7.58
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,8.35
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,260,Flooring,60.0,60.0,0.36,260.0,2.1,7.6
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,324,Flooring,60.0,60.0,0.36,324.0,1.6851851851851851,7.87
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,751,Flooring,60.0,120.0,0.72,751.0,0.7270306258322237,5.05
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,679,Flooring,60.0,120.0,0.72,679.0,0.8041237113402062,5.21
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,372,Flooring,60.0,60.0,0.36,372.0,1.467741935483871,7.44
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,884,Flooring,60.0,120.0,0.72,884.0,0.6176470588235294,4.84
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,731,Flooring,60.0,120.0,0.72,731.0,0.746922024623803,5.09
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,778,Flooring,60.0,120.0,0.72,778.0,0.7017994858611826,5.9
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,173,Flooring,60.0,60.0,0.36,173.0,3.1560693641618496,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,917,Flooring,60.0,120.0,0.72,917.0,0.5954198473282443,5.69
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,657,Flooring,60.0,120.0,0.72,657.0,0.8310502283105022,5.26
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,244,Flooring,60.0,60.0,0.36,244.0,2.237704918032787,7.6
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,287,Flooring,60.0,60.0,0.36,287.0,1.9024390243902438,8.3
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,746,Flooring,60.0,120.0,0.72,746.0,0.7319034852546917,6.86
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,452,Flooring,60.0,120.0,0.72,452.0,1.2079646017699115,7.82
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,531,Flooring,60.0,120.0,0.72,531.0,1.0282485875706215,6.56
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,654,Flooring,60.0,120.0,0.72,654.0,0.8348623853211009,6.17
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,322,Flooring,60.0,60.0,0.36,322.0,1.6956521739130435,6.99
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,920,Flooring,60.0,120.0,0.72,920.0,0.5934782608695652,6.59
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,460,Flooring,60.0,120.0,0.72,460.0,1.1869565217391305,5.97
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,623,Flooring,60.0,120.0,0.72,623.0,0.8764044943820225,6.25
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,681,Flooring,60.0,120.0,0.72,681.0,0.801762114537445,5.2
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,744,Flooring,60.0,120.0,0.72,744.0,0.7338709677419355,6.87
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,683,Flooring,60.0,120.0,0.72,683.0,0.7994143484626647,7.0
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,329,Flooring,60.0,60.0,0.36,329.0,1.6595744680851063,8.72
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,821,Flooring,60.0,120.0,0.72,821.0,0.6650426309378806,4.93
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,822,Flooring,60.0,120.0,0.72,822.0,0.6642335766423357,5.83
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,7.44
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,794,Flooring,60.0,120.0,0.72,794.0,0.6876574307304786,4.98
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,332,Flooring,60.0,60.0,0.36,332.0,1.644578313253012,8.69
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,205,Flooring,60.0,60.0,0.36,205.0,2.6634146341463416,7.6
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,296,Flooring,60.0,60.0,0.36,296.0,1.8445945945945945,8.19
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,657,Flooring,60.0,120.0,0.72,657.0,0.8310502283105022,7.06
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,607,Flooring,60.0,120.0,0.72,607.0,0.899505766062603,5.4
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,687,Flooring,60.0,120.0,0.72,687.0,0.7947598253275109,6.09
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,317,Flooring,60.0,60.0,0.36,317.0,1.722397476340694,8.84
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,539,Flooring,60.0,120.0,0.72,539.0,1.0129870129870129,7.43
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,7.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,747,Flooring,60.0,120.0,0.72,747.0,0.7309236947791165,6.86
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,525,Flooring,60.0,120.0,0.72,525.0,1.04,5.68
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,586,Flooring,60.0,120.0,0.72,586.0,0.931740614334471,5.46
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,213,Flooring,60.0,60.0,0.36,213.0,2.563380281690141,7.6
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,334,Flooring,60.0,60.0,0.36,334.0,1.6347305389221556,7.77
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,522,Flooring,60.0,120.0,0.72,522.0,1.0459770114942528,7.49
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,727,Flooring,60.0,120.0,0.72,727.0,0.7510316368638239,6.9
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,502,Flooring,60.0,120.0,0.72,502.0,1.0876494023904382,6.68
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,8.34
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,839,Flooring,60.0,120.0,0.72,839.0,0.6507747318235996,5.8
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,840,Flooring,60.0,120.0,0.72,840.0,0.65,6.7
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,698,Flooring,60.0,120.0,0.72,698.0,0.7822349570200573,5.16
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,913,Flooring,60.0,120.0,0.72,913.0,0.5980284775465499,6.6
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,332,Flooring,60.0,60.0,0.36,332.0,1.644578313253012,6.89
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,9.25
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,934,Flooring,60.0,120.0,0.72,934.0,0.5845824411134903,4.77
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,239,Flooring,60.0,60.0,0.36,239.0,2.284518828451883,8.5
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,855,Flooring,60.0,120.0,0.72,855.0,0.6385964912280702,4.88
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,359,Flooring,60.0,60.0,0.36,359.0,1.5208913649025069,7.54
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,800,Flooring,60.0,120.0,0.72,800.0,0.6825,4.96
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,286,Flooring,60.0,60.0,0.36,286.0,1.9090909090909092,7.42
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,378,Flooring,60.0,60.0,0.36,378.0,1.4444444444444444,8.29
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,869,Flooring,60.0,120.0,0.72,869.0,0.6283084004602992,6.66
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,346,Flooring,60.0,60.0,0.36,346.0,1.5780346820809248,8.56
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,534,Flooring,60.0,120.0,0.72,534.0,1.0224719101123596,6.54
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,534,Flooring,60.0,120.0,0.72,534.0,1.0224719101123596,6.54
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,704,Flooring,60.0,120.0,0.72,704.0,0.7755681818181818,5.15
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,549,Flooring,60.0,120.0,0.72,549.0,0.994535519125683,6.49
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,768,Flooring,60.0,120.0,0.72,768.0,0.7109375,5.02
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,201,Flooring,60.0,60.0,0.36,201.0,2.716417910447761,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,676,Flooring,60.0,120.0,0.72,676.0,0.8076923076923077,6.12
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,322,Flooring,60.0,60.0,0.36,322.0,1.6956521739130435,7.89
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,204,Flooring,60.0,60.0,0.36,204.0,2.676470588235294,7.6
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,240,Flooring,60.0,60.0,0.36,240.0,2.275,7.6
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,199,Flooring,60.0,60.0,0.36,199.0,2.7437185929648242,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,539,Flooring,60.0,120.0,0.72,539.0,1.0129870129870129,6.53
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,826,Flooring,60.0,120.0,0.72,826.0,0.6610169491525424,4.92
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,520,Flooring,60.0,120.0,0.72,520.0,1.05,7.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,740,Flooring,60.0,120.0,0.72,740.0,0.7378378378378379,5.08
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,844,Flooring,60.0,120.0,0.72,844.0,0.6469194312796208,5.79
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,603,Flooring,60.0,120.0,0.72,603.0,0.9054726368159204,7.21
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,772,Flooring,60.0,120.0,0.72,772.0,0.7072538860103627,6.81
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,184,Flooring,60.0,60.0,0.36,184.0,2.967391304347826,9.4
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,182,Flooring,60.0,60.0,0.36,182.0,3.0,7.6
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,9.4
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,219,Flooring,60.0,60.0,0.36,219.0,2.493150684931507,7.6
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,377,Flooring,60.0,60.0,0.36,377.0,1.4482758620689655,7.4
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,267,Flooring,60.0,60.0,0.36,267.0,2.044943820224719,8.5
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,731,Flooring,60.0,120.0,0.72,731.0,0.746922024623803,6.89
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,772,Flooring,60.0,120.0,0.72,772.0,0.7072538860103627,5.01
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,256,Flooring,60.0,60.0,0.36,256.0,2.1328125,8.5
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,847,Flooring,60.0,120.0,0.72,847.0,0.6446280991735537,5.79
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,516,Flooring,60.0,120.0,0.72,516.0,1.058139534883721,5.72
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,285,Flooring,60.0,60.0,0.36,285.0,1.9157894736842105,7.43
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,179,Flooring,60.0,60.0,0.36,179.0,3.0502793296089385,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,904,Flooring,60.0,120.0,0.72,904.0,0.6039823008849557,5.71
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,6.54
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,322,Flooring,60.0,60.0,0.36,322.0,1.6956521739130435,8.79
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,440,Flooring,60.0,120.0,0.72,440.0,1.240909090909091,6.98
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,9.4
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,534,Flooring,60.0,120.0,0.72,534.0,1.0224719101123596,5.64
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,747,Flooring,60.0,120.0,0.72,747.0,0.7309236947791165,5.96
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,835,Flooring,60.0,120.0,0.72,835.0,0.6538922155688622,4.91
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,368,Flooring,60.0,60.0,0.36,368.0,1.483695652173913,8.37
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,195,Flooring,60.0,60.0,0.36,195.0,2.8,7.6
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,913,Flooring,60.0,120.0,0.72,913.0,0.5980284775465499,5.7
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,497,Flooring,60.0,120.0,0.72,497.0,1.0985915492957747,6.7
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,264,Flooring,60.0,60.0,0.36,264.0,2.0681818181818183,7.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,704,Flooring,60.0,120.0,0.72,704.0,0.7755681818181818,5.15
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,462,Flooring,60.0,120.0,0.72,462.0,1.1818181818181819,7.76
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,327,Flooring,60.0,60.0,0.36,327.0,1.6697247706422018,7.84
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,543,Flooring,60.0,120.0,0.72,543.0,1.0055248618784531,5.61
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,612,Flooring,60.0,120.0,0.72,612.0,0.8921568627450981,6.28
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,802,Flooring,60.0,120.0,0.72,802.0,0.6807980049875312,6.76
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,612,Flooring,60.0,120.0,0.72,612.0,0.8921568627450981,7.18
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,564,Flooring,60.0,120.0,0.72,564.0,0.9680851063829787,6.44
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,900,Flooring,60.0,120.0,0.72,900.0,0.6066666666666667,5.71
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,179,Flooring,60.0,60.0,0.36,179.0,3.0502793296089385,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,737,Flooring,60.0,120.0,0.72,737.0,0.7408412483039348,5.98
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,705,Flooring,60.0,120.0,0.72,705.0,0.774468085106383,6.05
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,740,Flooring,60.0,120.0,0.72,740.0,0.7378378378378379,5.98
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,8.35
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,762,Flooring,60.0,120.0,0.72,762.0,0.7165354330708661,5.93
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,553,Flooring,60.0,120.0,0.72,553.0,0.9873417721518988,7.37
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,713,Flooring,60.0,120.0,0.72,713.0,0.7657784011220197,5.13
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,256,Flooring,60.0,60.0,0.36,256.0,2.1328125,9.4
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,506,Flooring,60.0,120.0,0.72,506.0,1.0790513833992095,7.56
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,839,Flooring,60.0,120.0,0.72,839.0,0.6507747318235996,5.8
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,764,Flooring,60.0,120.0,0.72,764.0,0.7146596858638743,5.03
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,836,Flooring,60.0,120.0,0.72,836.0,0.65311004784689,6.71
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,528,Flooring,60.0,120.0,0.72,528.0,1.0340909090909092,6.57
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,6.54
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,734,Flooring,60.0,120.0,0.72,734.0,0.7438692098092643,5.99
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,855,Flooring,60.0,120.0,0.72,855.0,0.6385964912280702,5.78
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,729,Flooring,60.0,120.0,0.72,729.0,0.7489711934156379,6.0
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,506,Flooring,60.0,120.0,0.72,506.0,1.0790513833992095,6.66
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,752,Flooring,60.0,120.0,0.72,752.0,0.726063829787234,6.85
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,943,Flooring,60.0,120.0,0.72,943.0,0.5790031813361611,4.76
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,790,Flooring,60.0,120.0,0.72,790.0,0.6911392405063291,4.98
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,793,Flooring,60.0,120.0,0.72,793.0,0.6885245901639344,5.88
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,438,Flooring,60.0,120.0,0.72,438.0,1.2465753424657535,6.09
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,586,Flooring,60.0,120.0,0.72,586.0,0.931740614334471,7.26
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,509,Flooring,60.0,120.0,0.72,509.0,1.0726915520628684,6.65
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,593,Flooring,60.0,120.0,0.72,593.0,0.9207419898819561,5.44
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,927,Flooring,60.0,120.0,0.72,927.0,0.5889967637540453,5.68
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,275,Flooring,60.0,60.0,0.36,275.0,1.9854545454545454,8.47
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,446,Flooring,60.0,120.0,0.72,446.0,1.2242152466367713,6.05
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,898,Flooring,60.0,120.0,0.72,898.0,0.6080178173719376,4.82
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,890,Flooring,60.0,120.0,0.72,890.0,0.6134831460674157,5.73
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,850,Flooring,60.0,120.0,0.72,850.0,0.6423529411764706,5.78
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,492,Flooring,60.0,120.0,0.72,492.0,1.1097560975609757,7.62
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,245,Flooring,60.0,60.0,0.36,245.0,2.2285714285714286,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,757,Flooring,60.0,120.0,0.72,757.0,0.7212681638044914,5.04
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,900,Flooring,60.0,120.0,0.72,900.0,0.6066666666666667,5.71
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,884,Flooring,60.0,120.0,0.72,884.0,0.6176470588235294,6.64
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,329,Flooring,60.0,60.0,0.36,329.0,1.6595744680851063,7.82
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,359,Flooring,60.0,60.0,0.36,359.0,1.5208913649025069,8.44
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,339,Flooring,60.0,60.0,0.36,339.0,1.6106194690265487,7.72
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,178,Flooring,60.0,60.0,0.36,178.0,3.067415730337079,9.4
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,298,Flooring,60.0,60.0,0.36,298.0,1.832214765100671,8.16
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,536,Flooring,60.0,120.0,0.72,536.0,1.0186567164179106,7.44
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,734,Flooring,60.0,120.0,0.72,734.0,0.7438692098092643,5.09
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,869,Flooring,60.0,120.0,0.72,869.0,0.6283084004602992,6.66
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,525,Flooring,60.0,120.0,0.72,525.0,1.04,7.48
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,334,Flooring,60.0,60.0,0.36,334.0,1.6347305389221556,8.67
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,808,Flooring,60.0,120.0,0.72,808.0,0.6757425742574258,6.75
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,357,Flooring,60.0,60.0,0.36,357.0,1.5294117647058822,8.46
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,563,Flooring,60.0,120.0,0.72,563.0,0.9698046181172292,6.44
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,839,Flooring,60.0,120.0,0.72,839.0,0.6507747318235996,4.9
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,218,Flooring,60.0,60.0,0.36,218.0,2.5045871559633026,8.5
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,198,Flooring,60.0,60.0,0.36,198.0,2.757575757575758,9.4
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,230,Flooring,60.0,60.0,0.36,230.0,2.373913043478261,7.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,843,Flooring,60.0,120.0,0.72,843.0,0.6476868327402135,4.9
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,8.34
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,368,Flooring,60.0,60.0,0.36,368.0,1.483695652173913,7.47
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,644,Flooring,60.0,120.0,0.72,644.0,0.8478260869565217,7.1
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,283,Flooring,60.0,60.0,0.36,283.0,1.9293286219081272,8.36
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,5.42
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,614,Flooring,60.0,120.0,0.72,614.0,0.8892508143322475,7.18
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,794,Flooring,60.0,120.0,0.72,794.0,0.6876574307304786,4.98
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,179,Flooring,60.0,60.0,0.36,179.0,3.0502793296089385,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,800,Flooring,60.0,120.0,0.72,800.0,0.6825,5.86
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,676,Flooring,60.0,120.0,0.72,676.0,0.8076923076923077,7.02
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,5.06
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,244,Flooring,60.0,60.0,0.36,244.0,2.237704918032787,9.4
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,334,Flooring,60.0,60.0,0.36,334.0,1.6347305389221556,6.87
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,184,Flooring,60.0,60.0,0.36,184.0,2.967391304347826,7.6
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,357,Flooring,60.0,60.0,0.36,357.0,1.5294117647058822,7.56
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,658,Flooring,60.0,120.0,0.72,658.0,0.8297872340425532,7.06
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,536,Flooring,60.0,120.0,0.72,536.0,1.0186567164179106,5.64
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,270,Flooring,60.0,60.0,0.36,270.0,2.022222222222222,8.5
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,7.51
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,446,Flooring,60.0,120.0,0.72,446.0,1.2242152466367713,7.85
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,924,Flooring,60.0,120.0,0.72,924.0,0.5909090909090909,6.58
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,703,Flooring,60.0,120.0,0.72,703.0,0.7766714082503556,5.15
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,832,Flooring,60.0,120.0,0.72,832.0,0.65625,4.91
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,509,Flooring,60.0,120.0,0.72,509.0,1.0726915520628684,7.55
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,329,Flooring,60.0,60.0,0.36,329.0,1.6595744680851063,6.92
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,597,Flooring,60.0,120.0,0.72,597.0,0.914572864321608,5.43
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,543,Flooring,60.0,120.0,0.72,543.0,1.0055248618784531,5.61
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,286,Flooring,60.0,60.0,0.36,286.0,1.9090909090909092,7.42
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,702,Flooring,60.0,120.0,0.72,702.0,0.7777777777777778,6.06
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,520,Flooring,60.0,120.0,0.72,520.0,1.05,5.7
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,466,Flooring,60.0,120.0,0.72,466.0,1.1716738197424892,7.74
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,756,Flooring,60.0,120.0,0.72,756.0,0.7222222222222222,6.84
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,248,Flooring,60.0,60.0,0.36,248.0,2.2016129032258065,7.6
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,179,Flooring,60.0,60.0,0.36,179.0,3.0502793296089385,9.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,660,Flooring,60.0,120.0,0.72,660.0,0.8272727272727273,5.25
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,607,Flooring,60.0,120.0,0.72,607.0,0.899505766062603,6.3
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,244,Flooring,60.0,60.0,0.36,244.0,2.237704918032787,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,7.22
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,740,Flooring,60.0,120.0,0.72,740.0,0.7378378378378379,5.08
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,7.02
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,235,Flooring,60.0,60.0,0.36,235.0,2.323404255319149,9.4
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,178,Flooring,60.0,60.0,0.36,178.0,3.067415730337079,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,822,Flooring,60.0,120.0,0.72,822.0,0.6642335766423357,6.73
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,793,Flooring,60.0,120.0,0.72,793.0,0.6885245901639344,4.98
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,613,Flooring,60.0,120.0,0.72,613.0,0.8907014681892332,6.28
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,917,Flooring,60.0,120.0,0.72,917.0,0.5954198473282443,6.59
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,9.25
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,757,Flooring,60.0,120.0,0.72,757.0,0.7212681638044914,5.94
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,272,Flooring,60.0,60.0,0.36,272.0,2.0073529411764706,8.5
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,596,Flooring,60.0,120.0,0.72,596.0,0.9161073825503355,7.23
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,349,Flooring,60.0,60.0,0.36,349.0,1.5644699140401146,6.73
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,213,Flooring,60.0,60.0,0.36,213.0,2.563380281690141,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,885,Flooring,60.0,120.0,0.72,885.0,0.6169491525423729,4.83
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,781,Flooring,60.0,120.0,0.72,781.0,0.6991037131882202,5.9
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,740,Flooring,60.0,120.0,0.72,740.0,0.7378378378378379,6.88
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,813,Flooring,60.0,120.0,0.72,813.0,0.6715867158671587,5.84
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,676,Flooring,60.0,120.0,0.72,676.0,0.8076923076923077,7.02
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,840,Flooring,60.0,120.0,0.72,840.0,0.65,4.9
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,655,Flooring,60.0,120.0,0.72,655.0,0.833587786259542,7.07
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,815,Flooring,60.0,120.0,0.72,815.0,0.6699386503067485,5.84
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,644,Flooring,60.0,120.0,0.72,644.0,0.8478260869565217,5.3
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,264,Flooring,60.0,60.0,0.36,264.0,2.0681818181818183,8.5
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,264,Flooring,60.0,60.0,0.36,264.0,2.0681818181818183,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,885,Flooring,60.0,120.0,0.72,885.0,0.6169491525423729,4.83
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,173,Flooring,60.0,60.0,0.36,173.0,3.1560693641618496,7.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,843,Flooring,60.0,120.0,0.72,843.0,0.6476868327402135,4.9
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,306,Flooring,60.0,60.0,0.36,306.0,1.7843137254901962,7.17
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,499,Flooring,60.0,120.0,0.72,499.0,1.094188376753507,7.59
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,442,Flooring,60.0,120.0,0.72,442.0,1.2352941176470589,6.97
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,862,Flooring,60.0,120.0,0.72,862.0,0.6334106728538283,6.67
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,211,Flooring,60.0,60.0,0.36,211.0,2.5876777251184833,8.5
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,355,Flooring,60.0,60.0,0.36,355.0,1.5380281690140845,7.58
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,443,Flooring,60.0,120.0,0.72,443.0,1.2325056433408579,7.87
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,6.12
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,262,Flooring,60.0,60.0,0.36,262.0,2.0839694656488548,7.6
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,9.4
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,239,Flooring,60.0,60.0,0.36,239.0,2.284518828451883,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,658,Flooring,60.0,120.0,0.72,658.0,0.8297872340425532,6.16
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,564,Flooring,60.0,120.0,0.72,564.0,0.9680851063829787,5.54
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,357,Flooring,60.0,60.0,0.36,357.0,1.5294117647058822,7.56
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,268,Flooring,60.0,60.0,0.36,268.0,2.037313432835821,9.4
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,198,Flooring,60.0,60.0,0.36,198.0,2.757575757575758,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,499,Flooring,60.0,120.0,0.72,499.0,1.094188376753507,5.79
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,831,Flooring,60.0,120.0,0.72,831.0,0.6570397111913358,5.81
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,944,Flooring,60.0,120.0,0.72,944.0,0.5783898305084746,6.56
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,303,Flooring,60.0,60.0,0.36,303.0,1.801980198019802,8.1
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,232,Flooring,60.0,60.0,0.36,232.0,2.353448275862069,8.5
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,466,Flooring,60.0,120.0,0.72,466.0,1.1716738197424892,7.74
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,614,Flooring,60.0,120.0,0.72,614.0,0.8892508143322475,7.18
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,261,Flooring,60.0,60.0,0.36,261.0,2.0919540229885056,8.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,525,Flooring,60.0,120.0,0.72,525.0,1.04,7.48
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,769,Flooring,60.0,120.0,0.72,769.0,0.7100130039011704,5.92
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,261,Flooring,60.0,60.0,0.36,261.0,2.0919540229885056,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,734,Flooring,60.0,120.0,0.72,734.0,0.7438692098092643,5.09
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,544,Flooring,60.0,120.0,0.72,544.0,1.0036764705882353,5.61
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,452,Flooring,60.0,120.0,0.72,452.0,1.2079646017699115,6.92
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,313,Flooring,60.0,60.0,0.36,313.0,1.744408945686901,7.09
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,586,Flooring,60.0,120.0,0.72,586.0,0.931740614334471,7.26
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,720,Flooring,60.0,120.0,0.72,720.0,0.7583333333333333,6.02
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,934,Flooring,60.0,120.0,0.72,934.0,0.5845824411134903,5.67
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,832,Flooring,60.0,120.0,0.72,832.0,0.65625,6.71
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,815,Flooring,60.0,120.0,0.72,815.0,0.6699386503067485,4.94
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,729,Flooring,60.0,120.0,0.72,729.0,0.7489711934156379,6.9
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,260,Flooring,60.0,60.0,0.36,260.0,2.1,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,442,Flooring,60.0,120.0,0.72,442.0,1.2352941176470589,6.97
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,213,Flooring,60.0,60.0,0.36,213.0,2.563380281690141,8.5
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,283,Flooring,60.0,60.0,0.36,283.0,1.9293286219081272,9.26
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,740,Flooring,60.0,120.0,0.72,740.0,0.7378378378378379,5.98
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,734,Flooring,60.0,120.0,0.72,734.0,0.7438692098092643,5.09
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,528,Flooring,60.0,120.0,0.72,528.0,1.0340909090909092,6.57
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,822,Flooring,60.0,120.0,0.72,822.0,0.6642335766423357,4.93
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,768,Flooring,60.0,120.0,0.72,768.0,0.7109375,5.02
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,354,Flooring,60.0,60.0,0.36,354.0,1.5423728813559323,6.68
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,555,Flooring,60.0,120.0,0.72,555.0,0.9837837837837838,7.37
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,306,Flooring,60.0,60.0,0.36,306.0,1.7843137254901962,7.17
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,852,Flooring,60.0,120.0,0.72,852.0,0.6408450704225352,5.78
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,7.45
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,893,Flooring,60.0,120.0,0.72,893.0,0.6114221724524076,4.82
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,844,Flooring,60.0,120.0,0.72,844.0,0.6469194312796208,5.79
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,235,Flooring,60.0,60.0,0.36,235.0,2.323404255319149,8.5
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,584,Flooring,60.0,120.0,0.72,584.0,0.934931506849315,7.27
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,586,Flooring,60.0,120.0,0.72,586.0,0.931740614334471,7.26
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,737,Flooring,60.0,120.0,0.72,737.0,0.7408412483039348,5.98
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,184,Flooring,60.0,60.0,0.36,184.0,2.967391304347826,9.4
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,289,Flooring,60.0,60.0,0.36,289.0,1.8892733564013842,7.38
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,743,Flooring,60.0,120.0,0.72,743.0,0.7348586810228802,5.07
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,281,Flooring,60.0,60.0,0.36,281.0,1.9430604982206405,7.49
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,443,Flooring,60.0,120.0,0.72,443.0,1.2325056433408579,6.07
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,821,Flooring,60.0,120.0,0.72,821.0,0.6650426309378806,4.93
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,831,Flooring,60.0,120.0,0.72,831.0,0.6570397111913358,4.91
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,456,Flooring,60.0,120.0,0.72,456.0,1.1973684210526316,6.89
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,334,Flooring,60.0,60.0,0.36,334.0,1.6347305389221556,7.77
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,545,Flooring,60.0,120.0,0.72,545.0,1.001834862385321,6.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,438,Flooring,60.0,120.0,0.72,438.0,1.2465753424657535,7.89
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,650,Flooring,60.0,120.0,0.72,650.0,0.84,6.18
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,716,Flooring,60.0,120.0,0.72,716.0,0.7625698324022346,6.93
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,670,Flooring,60.0,120.0,0.72,670.0,0.8149253731343283,7.03
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,196,Flooring,60.0,60.0,0.36,196.0,2.7857142857142856,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,462,Flooring,60.0,120.0,0.72,462.0,1.1818181818181819,6.86
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,701,Flooring,60.0,120.0,0.72,701.0,0.7788873038516405,6.96
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,267,Flooring,60.0,60.0,0.36,267.0,2.044943820224719,8.5
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,596,Flooring,60.0,120.0,0.72,596.0,0.9161073825503355,6.33
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,947,Flooring,60.0,120.0,0.72,947.0,0.5765575501583949,4.75
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,525,Flooring,60.0,120.0,0.72,525.0,1.04,5.68
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,694,Flooring,60.0,120.0,0.72,694.0,0.7867435158501441,5.17
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,552,Flooring,60.0,120.0,0.72,552.0,0.9891304347826086,7.38
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,650,Flooring,60.0,120.0,0.72,650.0,0.84,7.08
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,744,Flooring,60.0,120.0,0.72,744.0,0.7338709677419355,6.87
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,720,Flooring,60.0,120.0,0.72,720.0,0.7583333333333333,6.02
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,543,Flooring,60.0,120.0,0.72,543.0,1.0055248618784531,5.61
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,299,Flooring,60.0,60.0,0.36,299.0,1.826086956521739,7.25
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,349,Flooring,60.0,60.0,0.36,349.0,1.5644699140401146,8.53
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,7.6
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,270,Flooring,60.0,60.0,0.36,270.0,2.022222222222222,8.5
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,890,Flooring,60.0,120.0,0.72,890.0,0.6134831460674157,4.83
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,555,Flooring,60.0,120.0,0.72,555.0,0.9837837837837838,5.57
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,328,Flooring,60.0,60.0,0.36,328.0,1.6646341463414633,7.83
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,196,Flooring,60.0,60.0,0.36,196.0,2.7857142857142856,8.5
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,263,Flooring,60.0,60.0,0.36,263.0,2.076045627376426,7.6
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,904,Flooring,60.0,120.0,0.72,904.0,0.6039823008849557,4.81
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,199,Flooring,60.0,60.0,0.36,199.0,2.7437185929648242,9.4
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,182,Flooring,60.0,60.0,0.36,182.0,3.0,7.6
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,219,Flooring,60.0,60.0,0.36,219.0,2.493150684931507,8.5
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,263,Flooring,60.0,60.0,0.36,263.0,2.076045627376426,7.6
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,898,Flooring,60.0,120.0,0.72,898.0,0.6080178173719376,6.62
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,7.51
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,674,Flooring,60.0,120.0,0.72,674.0,0.8100890207715133,6.12
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,847,Flooring,60.0,120.0,0.72,847.0,0.6446280991735537,5.79
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,559,Flooring,60.0,120.0,0.72,559.0,0.9767441860465116,7.35
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,276,Flooring,60.0,60.0,0.36,276.0,1.9782608695652173,9.36
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,667,Flooring,60.0,120.0,0.72,667.0,0.8185907046476761,5.24
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,275,Flooring,60.0,60.0,0.36,275.0,1.9854545454545454,9.37
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,808,Flooring,60.0,120.0,0.72,808.0,0.6757425742574258,5.85
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,275,Flooring,60.0,60.0,0.36,275.0,1.9854545454545454,9.37
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,5.42
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,496,Flooring,60.0,120.0,0.72,496.0,1.1008064516129032,7.6
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,502,Flooring,60.0,120.0,0.72,502.0,1.0876494023904382,6.68
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,654,Flooring,60.0,120.0,0.72,654.0,0.8348623853211009,6.17
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,835,Flooring,60.0,120.0,0.72,835.0,0.6538922155688622,4.91
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,756,Flooring,60.0,120.0,0.72,756.0,0.7222222222222222,6.84
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,737,Flooring,60.0,120.0,0.72,737.0,0.7408412483039348,5.98
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,782,Flooring,60.0,120.0,0.72,782.0,0.6982097186700768,5.0
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,313,Flooring,60.0,60.0,0.36,313.0,1.744408945686901,7.09
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,716,Flooring,60.0,120.0,0.72,716.0,0.7625698324022346,6.03
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,453,Flooring,60.0,120.0,0.72,453.0,1.205298013245033,7.81
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,438,Flooring,60.0,120.0,0.72,438.0,1.2465753424657535,6.99
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,466,Flooring,60.0,120.0,0.72,466.0,1.1716738197424892,6.84
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,440,Flooring,60.0,120.0,0.72,440.0,1.240909090909091,6.08
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,6.32
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,6.12
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,8.5
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,869,Flooring,60.0,120.0,0.72,869.0,0.6283084004602992,6.66
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,547,Flooring,60.0,120.0,0.72,547.0,0.9981718464351006,6.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,664,Flooring,60.0,120.0,0.72,664.0,0.822289156626506,5.24
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,884,Flooring,60.0,120.0,0.72,884.0,0.6176470588235294,5.74
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,876,Flooring,60.0,120.0,0.72,876.0,0.6232876712328768,5.75
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,278,Flooring,60.0,60.0,0.36,278.0,1.9640287769784173,8.43
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,534,Flooring,60.0,120.0,0.72,534.0,1.0224719101123596,6.54
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,811,Flooring,60.0,120.0,0.72,811.0,0.6732429099876696,6.75
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,245,Flooring,60.0,60.0,0.36,245.0,2.2285714285714286,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,657,Flooring,60.0,120.0,0.72,657.0,0.8310502283105022,6.16
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,750,Flooring,60.0,120.0,0.72,750.0,0.728,6.86
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,276,Flooring,60.0,60.0,0.36,276.0,1.9782608695652173,8.46
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,260,Flooring,60.0,60.0,0.36,260.0,2.1,8.5
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,554,Flooring,60.0,120.0,0.72,554.0,0.9855595667870036,7.37
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,303,Flooring,60.0,60.0,0.36,303.0,1.801980198019802,9.0
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,559,Flooring,60.0,120.0,0.72,559.0,0.9767441860465116,6.45
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,737,Flooring,60.0,120.0,0.72,737.0,0.7408412483039348,6.88
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,547,Flooring,60.0,120.0,0.72,547.0,0.9981718464351006,5.6
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,460,Flooring,60.0,120.0,0.72,460.0,1.1869565217391305,7.77
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,9.4
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,248,Flooring,60.0,60.0,0.36,248.0,2.2016129032258065,9.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,540,Flooring,60.0,120.0,0.72,540.0,1.011111111111111,5.62
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,716,Flooring,60.0,120.0,0.72,716.0,0.7625698324022346,5.13
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,268,Flooring,60.0,60.0,0.36,268.0,2.037313432835821,8.5
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,289,Flooring,60.0,60.0,0.36,289.0,1.8892733564013842,7.38
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,856,Flooring,60.0,120.0,0.72,856.0,0.6378504672897196,4.88
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,801,Flooring,60.0,120.0,0.72,801.0,0.6816479400749064,4.96
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,502,Flooring,60.0,120.0,0.72,502.0,1.0876494023904382,7.58
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,563,Flooring,60.0,120.0,0.72,563.0,0.9698046181172292,6.44
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,655,Flooring,60.0,120.0,0.72,655.0,0.833587786259542,7.07
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,324,Flooring,60.0,60.0,0.36,324.0,1.6851851851851851,8.77
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,232,Flooring,60.0,60.0,0.36,232.0,2.353448275862069,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,858,Flooring,60.0,120.0,0.72,858.0,0.6363636363636364,6.67
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,7.22
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,378,Flooring,60.0,60.0,0.36,378.0,1.4444444444444444,6.49
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,553,Flooring,60.0,120.0,0.72,553.0,0.9873417721518988,7.37
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,724,Flooring,60.0,120.0,0.72,724.0,0.7541436464088398,6.91
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,296,Flooring,60.0,60.0,0.36,296.0,1.8445945945945945,9.09
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,545,Flooring,60.0,120.0,0.72,545.0,1.001834862385321,5.6
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,346,Flooring,60.0,60.0,0.36,346.0,1.5780346820809248,7.66
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,169,Flooring,60.0,60.0,0.36,169.0,3.230769230769231,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,536,Flooring,60.0,120.0,0.72,536.0,1.0186567164179106,5.64
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,642,Flooring,60.0,120.0,0.72,642.0,0.8504672897196262,7.1
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,597,Flooring,60.0,120.0,0.72,597.0,0.914572864321608,7.23
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,261,Flooring,60.0,60.0,0.36,261.0,2.0919540229885056,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,716,Flooring,60.0,120.0,0.72,716.0,0.7625698324022346,5.13
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,729,Flooring,60.0,120.0,0.72,729.0,0.7489711934156379,6.0
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,924,Flooring,60.0,120.0,0.72,924.0,0.5909090909090909,6.58
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,856,Flooring,60.0,120.0,0.72,856.0,0.6378504672897196,5.78
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,540,Flooring,60.0,120.0,0.72,540.0,1.011111111111111,6.52
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,934,Flooring,60.0,120.0,0.72,934.0,0.5845824411134903,4.77
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,687,Flooring,60.0,120.0,0.72,687.0,0.7947598253275109,6.09
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,261,Flooring,60.0,60.0,0.36,261.0,2.0919540229885056,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,690,Flooring,60.0,120.0,0.72,690.0,0.7913043478260869,6.08
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,516,Flooring,60.0,120.0,0.72,516.0,1.058139534883721,5.72
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,332,Flooring,60.0,60.0,0.36,332.0,1.644578313253012,7.79
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,244,Flooring,60.0,60.0,0.36,244.0,2.237704918032787,9.4
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,195,Flooring,60.0,60.0,0.36,195.0,2.8,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,652,Flooring,60.0,120.0,0.72,652.0,0.8374233128834356,5.27
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,845,Flooring,60.0,120.0,0.72,845.0,0.6461538461538462,6.69
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,224,Flooring,60.0,60.0,0.36,224.0,2.4375,7.6
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,913,Flooring,60.0,120.0,0.72,913.0,0.5980284775465499,5.7
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,572,Flooring,60.0,120.0,0.72,572.0,0.9545454545454546,7.31
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,7.51
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,321,Flooring,60.0,60.0,0.36,321.0,1.7009345794392523,7.9
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,346,Flooring,60.0,60.0,0.36,346.0,1.5780346820809248,7.66
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,603,Flooring,60.0,120.0,0.72,603.0,0.9054726368159204,7.21
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,840,Flooring,60.0,120.0,0.72,840.0,0.65,4.9
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,224,Flooring,60.0,60.0,0.36,224.0,2.4375,9.4
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,224,Flooring,60.0,60.0,0.36,224.0,2.4375,8.5
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,226,Flooring,60.0,60.0,0.36,226.0,2.415929203539823,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,508,Flooring,60.0,120.0,0.72,508.0,1.0748031496062993,7.55
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,253,Flooring,60.0,60.0,0.36,253.0,2.158102766798419,8.5
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,317,Flooring,60.0,60.0,0.36,317.0,1.722397476340694,7.04
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,204,Flooring,60.0,60.0,0.36,204.0,2.676470588235294,8.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,746,Flooring,60.0,120.0,0.72,746.0,0.7319034852546917,5.06
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,321,Flooring,60.0,60.0,0.36,321.0,1.7009345794392523,8.8
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,734,Flooring,60.0,120.0,0.72,734.0,0.7438692098092643,5.99
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,278,Flooring,60.0,60.0,0.36,278.0,1.9640287769784173,8.43
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,612,Flooring,60.0,120.0,0.72,612.0,0.8921568627450981,7.18
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,704,Flooring,60.0,120.0,0.72,704.0,0.7755681818181818,6.05
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,728,Flooring,60.0,120.0,0.72,728.0,0.75,5.1
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,801,Flooring,60.0,120.0,0.72,801.0,0.6816479400749064,5.86
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,267,Flooring,60.0,60.0,0.36,267.0,2.044943820224719,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,674,Flooring,60.0,120.0,0.72,674.0,0.8100890207715133,6.12
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,947,Flooring,60.0,120.0,0.72,947.0,0.5765575501583949,4.75
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,559,Flooring,60.0,120.0,0.72,559.0,0.9767441860465116,7.35
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,7.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,743,Flooring,60.0,120.0,0.72,743.0,0.7348586810228802,5.07
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,492,Flooring,60.0,120.0,0.72,492.0,1.1097560975609757,6.72
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,299,Flooring,60.0,60.0,0.36,299.0,1.826086956521739,9.05
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,8.35
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,276,Flooring,60.0,60.0,0.36,276.0,1.9782608695652173,9.36
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,330,Flooring,60.0,60.0,0.36,330.0,1.6545454545454545,8.71
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,358,Flooring,60.0,60.0,0.36,358.0,1.5251396648044693,7.55
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,730,Flooring,60.0,120.0,0.72,730.0,0.7479452054794521,6.9
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,6.32
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,270,Flooring,60.0,60.0,0.36,270.0,2.022222222222222,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,657,Flooring,60.0,120.0,0.72,657.0,0.8310502283105022,5.26
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,528,Flooring,60.0,120.0,0.72,528.0,1.0340909090909092,6.57
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,855,Flooring,60.0,120.0,0.72,855.0,0.6385964912280702,6.68
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,7.6
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,8.34
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,280,Flooring,60.0,60.0,0.36,280.0,1.95,7.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,757,Flooring,60.0,120.0,0.72,757.0,0.7212681638044914,6.84
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,752,Flooring,60.0,120.0,0.72,752.0,0.726063829787234,5.95
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,182,Flooring,60.0,60.0,0.36,182.0,3.0,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,531,Flooring,60.0,120.0,0.72,531.0,1.0282485875706215,5.66
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,858,Flooring,60.0,120.0,0.72,858.0,0.6363636363636364,5.77
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,592,Flooring,60.0,120.0,0.72,592.0,0.9222972972972973,6.34
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,6.12
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,767,Flooring,60.0,120.0,0.72,767.0,0.711864406779661,5.02
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,247,Flooring,60.0,60.0,0.36,247.0,2.210526315789474,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,727,Flooring,60.0,120.0,0.72,727.0,0.7510316368638239,6.9
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,550,Flooring,60.0,120.0,0.72,550.0,0.9927272727272727,5.59
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,525,Flooring,60.0,120.0,0.72,525.0,1.04,5.68
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,552,Flooring,60.0,120.0,0.72,552.0,0.9891304347826086,7.38
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,264,Flooring,60.0,60.0,0.36,264.0,2.0681818181818183,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,522,Flooring,60.0,120.0,0.72,522.0,1.0459770114942528,7.49
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,8.5
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,740,Flooring,60.0,120.0,0.72,740.0,0.7378378378378379,6.88
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,568,Flooring,60.0,120.0,0.72,568.0,0.9612676056338029,6.42
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,667,Flooring,60.0,120.0,0.72,667.0,0.8185907046476761,5.24
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,584,Flooring,60.0,120.0,0.72,584.0,0.934931506849315,6.37
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,280,Flooring,60.0,60.0,0.36,280.0,1.95,9.3
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,770,Flooring,60.0,120.0,0.72,770.0,0.7090909090909091,5.02
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,534,Flooring,60.0,120.0,0.72,534.0,1.0224719101123596,7.44
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,947,Flooring,60.0,120.0,0.72,947.0,0.5765575501583949,6.55
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,813,Flooring,60.0,120.0,0.72,813.0,0.6715867158671587,5.84
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,240,Flooring,60.0,60.0,0.36,240.0,2.275,7.6
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,173,Flooring,60.0,60.0,0.36,173.0,3.1560693641618496,8.5
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,230,Flooring,60.0,60.0,0.36,230.0,2.373913043478261,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,676,Flooring,60.0,120.0,0.72,676.0,0.8076923076923077,7.02
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,496,Flooring,60.0,120.0,0.72,496.0,1.1008064516129032,6.7
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,438,Flooring,60.0,120.0,0.72,438.0,1.2465753424657535,6.99
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,612,Flooring,60.0,120.0,0.72,612.0,0.8921568627450981,5.38
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,844,Flooring,60.0,120.0,0.72,844.0,0.6469194312796208,5.79
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,238,Flooring,60.0,60.0,0.36,238.0,2.2941176470588234,8.5
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,8.34
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,943,Flooring,60.0,120.0,0.72,943.0,0.5790031813361611,4.76
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,924,Flooring,60.0,120.0,0.72,924.0,0.5909090909090909,6.58
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,790,Flooring,60.0,120.0,0.72,790.0,0.6911392405063291,4.98
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,574,Flooring,60.0,120.0,0.72,574.0,0.9512195121951219,6.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,835,Flooring,60.0,120.0,0.72,835.0,0.6538922155688622,6.71
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,377,Flooring,60.0,60.0,0.36,377.0,1.4482758620689655,8.3
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,238,Flooring,60.0,60.0,0.36,238.0,2.2941176470588234,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,855,Flooring,60.0,120.0,0.72,855.0,0.6385964912280702,6.68
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,256,Flooring,60.0,60.0,0.36,256.0,2.1328125,8.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,800,Flooring,60.0,120.0,0.72,800.0,0.6825,6.76
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,240,Flooring,60.0,60.0,0.36,240.0,2.275,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,757,Flooring,60.0,120.0,0.72,757.0,0.7212681638044914,5.04
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,934,Flooring,60.0,120.0,0.72,934.0,0.5845824411134903,6.57
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,264,Flooring,60.0,60.0,0.36,264.0,2.0681818181818183,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,767,Flooring,60.0,120.0,0.72,767.0,0.711864406779661,5.92
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,453,Flooring,60.0,120.0,0.72,453.0,1.205298013245033,6.91
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,705,Flooring,60.0,120.0,0.72,705.0,0.774468085106383,5.15
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,466,Flooring,60.0,120.0,0.72,466.0,1.1716738197424892,6.84
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,855,Flooring,60.0,120.0,0.72,855.0,0.6385964912280702,6.68
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,893,Flooring,60.0,120.0,0.72,893.0,0.6114221724524076,5.72
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,782,Flooring,60.0,120.0,0.72,782.0,0.6982097186700768,6.8
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,339,Flooring,60.0,60.0,0.36,339.0,1.6106194690265487,7.72
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,520,Flooring,60.0,120.0,0.72,520.0,1.05,6.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,762,Flooring,60.0,120.0,0.72,762.0,0.7165354330708661,5.03
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,944,Flooring,60.0,120.0,0.72,944.0,0.5783898305084746,6.56
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,372,Flooring,60.0,60.0,0.36,372.0,1.467741935483871,6.54
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,492,Flooring,60.0,120.0,0.72,492.0,1.1097560975609757,5.82
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,549,Flooring,60.0,120.0,0.72,549.0,0.994535519125683,6.49
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,499,Flooring,60.0,120.0,0.72,499.0,1.094188376753507,6.69
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,890,Flooring,60.0,120.0,0.72,890.0,0.6134831460674157,6.63
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,592,Flooring,60.0,120.0,0.72,592.0,0.9222972972972973,6.34
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,819,Flooring,60.0,120.0,0.72,819.0,0.6666666666666666,5.83
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,7.45
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,645,Flooring,60.0,120.0,0.72,645.0,0.8465116279069768,5.29
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,372,Flooring,60.0,60.0,0.36,372.0,1.467741935483871,8.34
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,208,Flooring,60.0,60.0,0.36,208.0,2.625,8.5
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,178,Flooring,60.0,60.0,0.36,178.0,3.067415730337079,9.4
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,296,Flooring,60.0,60.0,0.36,296.0,1.8445945945945945,8.19
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,554,Flooring,60.0,120.0,0.72,554.0,0.9855595667870036,5.57
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,670,Flooring,60.0,120.0,0.72,670.0,0.8149253731343283,6.13
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,802,Flooring,60.0,120.0,0.72,802.0,0.6807980049875312,5.86
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,713,Flooring,60.0,120.0,0.72,713.0,0.7657784011220197,6.93
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,5.06
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,802,Flooring,60.0,120.0,0.72,802.0,0.6807980049875312,6.76
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,586,Flooring,60.0,120.0,0.72,586.0,0.931740614334471,5.46
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,253,Flooring,60.0,60.0,0.36,253.0,2.158102766798419,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,531,Flooring,60.0,120.0,0.72,531.0,1.0282485875706215,7.46
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,169,Flooring,60.0,60.0,0.36,169.0,3.230769230769231,7.6
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,346,Flooring,60.0,60.0,0.36,346.0,1.5780346820809248,6.76
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,324,Flooring,60.0,60.0,0.36,324.0,1.6851851851851851,6.97
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,757,Flooring,60.0,120.0,0.72,757.0,0.7212681638044914,5.04
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,547,Flooring,60.0,120.0,0.72,547.0,0.9981718464351006,7.4
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,8.35
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,837,Flooring,60.0,120.0,0.72,837.0,0.6523297491039427,6.7
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,850,Flooring,60.0,120.0,0.72,850.0,0.6423529411764706,5.78
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,5.06
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,7.51
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,844,Flooring,60.0,120.0,0.72,844.0,0.6469194312796208,6.69
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,531,Flooring,60.0,120.0,0.72,531.0,1.0282485875706215,6.56
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,7.45
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,245,Flooring,60.0,60.0,0.36,245.0,2.2285714285714286,8.5
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,360,Flooring,60.0,60.0,0.36,360.0,1.5166666666666666,8.43
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,205,Flooring,60.0,60.0,0.36,205.0,2.6634146341463416,7.6
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,172,Flooring,60.0,60.0,0.36,172.0,3.1744186046511627,7.6
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,232,Flooring,60.0,60.0,0.36,232.0,2.353448275862069,9.4
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,355,Flooring,60.0,60.0,0.36,355.0,1.5380281690140845,6.68
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,298,Flooring,60.0,60.0,0.36,298.0,1.832214765100671,7.26
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,657,Flooring,60.0,120.0,0.72,657.0,0.8310502283105022,5.26
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,349,Flooring,60.0,60.0,0.36,349.0,1.5644699140401146,8.53
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,267,Flooring,60.0,60.0,0.36,267.0,2.044943820224719,7.6
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,174,Flooring,60.0,60.0,0.36,174.0,3.1379310344827585,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,855,Flooring,60.0,120.0,0.72,855.0,0.6385964912280702,5.78
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,240,Flooring,60.0,60.0,0.36,240.0,2.275,9.4
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,321,Flooring,60.0,60.0,0.36,321.0,1.7009345794392523,8.8
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,360,Flooring,60.0,60.0,0.36,360.0,1.5166666666666666,6.63
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,699,Flooring,60.0,120.0,0.72,699.0,0.7811158798283262,6.06
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,751,Flooring,60.0,120.0,0.72,751.0,0.7270306258322237,5.95
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,704,Flooring,60.0,120.0,0.72,704.0,0.7755681818181818,6.95
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,198,Flooring,60.0,60.0,0.36,198.0,2.757575757575758,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,743,Flooring,60.0,120.0,0.72,743.0,0.7348586810228802,5.07
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,208,Flooring,60.0,60.0,0.36,208.0,2.625,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,813,Flooring,60.0,120.0,0.72,813.0,0.6715867158671587,6.74
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,267,Flooring,60.0,60.0,0.36,267.0,2.044943820224719,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,438,Flooring,60.0,120.0,0.72,438.0,1.2465753424657535,6.99
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,847,Flooring,60.0,120.0,0.72,847.0,0.6446280991735537,4.89
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,5.22
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,272,Flooring,60.0,60.0,0.36,272.0,2.0073529411764706,9.4
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,359,Flooring,60.0,60.0,0.36,359.0,1.5208913649025069,7.54
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,801,Flooring,60.0,120.0,0.72,801.0,0.6816479400749064,6.76
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,689,Flooring,60.0,120.0,0.72,689.0,0.7924528301886793,6.08
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,862,Flooring,60.0,120.0,0.72,862.0,0.6334106728538283,4.87
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,572,Flooring,60.0,120.0,0.72,572.0,0.9545454545454546,6.41
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,199,Flooring,60.0,60.0,0.36,199.0,2.7437185929648242,7.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,497,Flooring,60.0,120.0,0.72,497.0,1.0985915492957747,6.7
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,642,Flooring,60.0,120.0,0.72,642.0,0.8504672897196262,6.2
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,8.5
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,8.41
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,623,Flooring,60.0,120.0,0.72,623.0,0.8764044943820225,5.35
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,174,Flooring,60.0,60.0,0.36,174.0,3.1379310344827585,9.4
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,456,Flooring,60.0,120.0,0.72,456.0,1.1973684210526316,6.89
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,6.12
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,9.31
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,893,Flooring,60.0,120.0,0.72,893.0,0.6114221724524076,5.72
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,169,Flooring,60.0,60.0,0.36,169.0,3.230769230769231,7.6
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,5.06
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,687,Flooring,60.0,120.0,0.72,687.0,0.7947598253275109,6.99
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,9.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,6.12
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,660,Flooring,60.0,120.0,0.72,660.0,0.8272727272727273,5.25
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,5.42
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,539,Flooring,60.0,120.0,0.72,539.0,1.0129870129870129,6.53
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,664,Flooring,60.0,120.0,0.72,664.0,0.822289156626506,5.24
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,703,Flooring,60.0,120.0,0.72,703.0,0.7766714082503556,5.15
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,793,Flooring,60.0,120.0,0.72,793.0,0.6885245901639344,6.78
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,355,Flooring,60.0,60.0,0.36,355.0,1.5380281690140845,6.68
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,549,Flooring,60.0,120.0,0.72,549.0,0.994535519125683,7.39
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,593,Flooring,60.0,120.0,0.72,593.0,0.9207419898819561,6.34
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,460,Flooring,60.0,120.0,0.72,460.0,1.1869565217391305,5.97
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,208,Flooring,60.0,60.0,0.36,208.0,2.625,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,770,Flooring,60.0,120.0,0.72,770.0,0.7090909090909091,5.02
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,240,Flooring,60.0,60.0,0.36,240.0,2.275,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,699,Flooring,60.0,120.0,0.72,699.0,0.7811158798283262,5.16
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,781,Flooring,60.0,120.0,0.72,781.0,0.6991037131882202,5.0
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,655,Flooring,60.0,120.0,0.72,655.0,0.833587786259542,6.17
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,196,Flooring,60.0,60.0,0.36,196.0,2.7857142857142856,7.6
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,172,Flooring,60.0,60.0,0.36,172.0,3.1744186046511627,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,528,Flooring,60.0,120.0,0.72,528.0,1.0340909090909092,5.67
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,670,Flooring,60.0,120.0,0.72,670.0,0.8149253731343283,6.13
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,584,Flooring,60.0,120.0,0.72,584.0,0.934931506849315,7.27
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,679,Flooring,60.0,120.0,0.72,679.0,0.8041237113402062,7.01
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,235,Flooring,60.0,60.0,0.36,235.0,2.323404255319149,7.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,724,Flooring,60.0,120.0,0.72,724.0,0.7541436464088398,6.01
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,694,Flooring,60.0,120.0,0.72,694.0,0.7867435158501441,6.97
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,9.4
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,460,Flooring,60.0,120.0,0.72,460.0,1.1869565217391305,6.87
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,8.41
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,540,Flooring,60.0,120.0,0.72,540.0,1.011111111111111,5.62
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,7.6
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,233,Flooring,60.0,60.0,0.36,233.0,2.3433476394849784,7.6
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,8.34
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,920,Flooring,60.0,120.0,0.72,920.0,0.5934782608695652,6.59
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,378,Flooring,60.0,60.0,0.36,378.0,1.4444444444444444,7.39
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,494,Flooring,60.0,120.0,0.72,494.0,1.105263157894737,5.81
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,917,Flooring,60.0,120.0,0.72,917.0,0.5954198473282443,6.59
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,569,Flooring,60.0,120.0,0.72,569.0,0.9595782073813708,6.42
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,281,Flooring,60.0,60.0,0.36,281.0,1.9430604982206405,9.29
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,769,Flooring,60.0,120.0,0.72,769.0,0.7100130039011704,6.82
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,607,Flooring,60.0,120.0,0.72,607.0,0.899505766062603,5.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,826,Flooring,60.0,120.0,0.72,826.0,0.6610169491525424,4.92
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,233,Flooring,60.0,60.0,0.36,233.0,2.3433476394849784,9.4
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,262,Flooring,60.0,60.0,0.36,262.0,2.0839694656488548,7.6
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,676,Flooring,60.0,120.0,0.72,676.0,0.8076923076923077,7.02
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,576,Flooring,60.0,120.0,0.72,576.0,0.9479166666666666,5.5
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,286,Flooring,60.0,60.0,0.36,286.0,1.9090909090909092,9.22
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,681,Flooring,60.0,120.0,0.72,681.0,0.801762114537445,7.0
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,660,Flooring,60.0,120.0,0.72,660.0,0.8272727272727273,7.05
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,772,Flooring,60.0,120.0,0.72,772.0,0.7072538860103627,6.81
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,211,Flooring,60.0,60.0,0.36,211.0,2.5876777251184833,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,443,Flooring,60.0,120.0,0.72,443.0,1.2325056433408579,7.87
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,211,Flooring,60.0,60.0,0.36,211.0,2.5876777251184833,7.6
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,731,Flooring,60.0,120.0,0.72,731.0,0.746922024623803,6.89
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,6.32
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,943,Flooring,60.0,120.0,0.72,943.0,0.5790031813361611,5.66
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,728,Flooring,60.0,120.0,0.72,728.0,0.75,6.0
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,358,Flooring,60.0,60.0,0.36,358.0,1.5251396648044693,6.65
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,811,Flooring,60.0,120.0,0.72,811.0,0.6732429099876696,4.95
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,826,Flooring,60.0,120.0,0.72,826.0,0.6610169491525424,6.72
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,268,Flooring,60.0,60.0,0.36,268.0,2.037313432835821,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,555,Flooring,60.0,120.0,0.72,555.0,0.9837837837837838,6.47
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,660,Flooring,60.0,120.0,0.72,660.0,0.8272727272727273,6.15
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,770,Flooring,60.0,120.0,0.72,770.0,0.7090909090909091,6.82
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,821,Flooring,60.0,120.0,0.72,821.0,0.6650426309378806,6.73
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,5.06
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,657,Flooring,60.0,120.0,0.72,657.0,0.8310502283105022,6.16
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,633,Flooring,60.0,120.0,0.72,633.0,0.8625592417061612,7.13
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,174,Flooring,60.0,60.0,0.36,174.0,3.1379310344827585,7.6
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,844,Flooring,60.0,120.0,0.72,844.0,0.6469194312796208,5.79
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,7.6
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,8.35
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,270,Flooring,60.0,60.0,0.36,270.0,2.022222222222222,9.4
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,303,Flooring,60.0,60.0,0.36,303.0,1.801980198019802,8.1
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,679,Flooring,60.0,120.0,0.72,679.0,0.8041237113402062,6.11
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,525,Flooring,60.0,120.0,0.72,525.0,1.04,6.58
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,7.02
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,298,Flooring,60.0,60.0,0.36,298.0,1.832214765100671,9.06
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,327,Flooring,60.0,60.0,0.36,327.0,1.6697247706422018,6.94
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,612,Flooring,60.0,120.0,0.72,612.0,0.8921568627450981,7.18
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,862,Flooring,60.0,120.0,0.72,862.0,0.6334106728538283,5.77
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,8.35
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,766,Flooring,60.0,120.0,0.72,766.0,0.7127937336814621,5.03
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,8.35
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,906,Flooring,60.0,120.0,0.72,906.0,0.6026490066225165,6.61
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,531,Flooring,60.0,120.0,0.72,531.0,1.0282485875706215,5.66
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,8.41
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,811,Flooring,60.0,120.0,0.72,811.0,0.6732429099876696,4.95
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,633,Flooring,60.0,120.0,0.72,633.0,0.8625592417061612,6.23
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,5.96
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,219,Flooring,60.0,60.0,0.36,219.0,2.493150684931507,8.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,698,Flooring,60.0,120.0,0.72,698.0,0.7822349570200573,6.06
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,614,Flooring,60.0,120.0,0.72,614.0,0.8892508143322475,6.28
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,835,Flooring,60.0,120.0,0.72,835.0,0.6538922155688622,5.81
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,497,Flooring,60.0,120.0,0.72,497.0,1.0985915492957747,5.8
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,247,Flooring,60.0,60.0,0.36,247.0,2.210526315789474,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,554,Flooring,60.0,120.0,0.72,554.0,0.9855595667870036,7.37
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,752,Flooring,60.0,120.0,0.72,752.0,0.726063829787234,6.85
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,201,Flooring,60.0,60.0,0.36,201.0,2.716417910447761,7.6
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,488,Flooring,60.0,120.0,0.72,488.0,1.1188524590163935,7.64
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,819,Flooring,60.0,120.0,0.72,819.0,0.6666666666666666,4.93
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,592,Flooring,60.0,120.0,0.72,592.0,0.9222972972972973,7.24
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,699,Flooring,60.0,120.0,0.72,699.0,0.7811158798283262,6.96
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,191,Flooring,60.0,60.0,0.36,191.0,2.858638743455497,7.6
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,764,Flooring,60.0,120.0,0.72,764.0,0.7146596858638743,5.93
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,845,Flooring,60.0,120.0,0.72,845.0,0.6461538461538462,6.69
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,330,Flooring,60.0,60.0,0.36,330.0,1.6545454545454545,6.91
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,701,Flooring,60.0,120.0,0.72,701.0,0.7788873038516405,6.06
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,516,Flooring,60.0,120.0,0.72,516.0,1.058139534883721,5.72
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,766,Flooring,60.0,120.0,0.72,766.0,0.7127937336814621,5.03
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,914,Flooring,60.0,120.0,0.72,914.0,0.5973741794310722,6.59
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,612,Flooring,60.0,120.0,0.72,612.0,0.8921568627450981,7.18
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,287,Flooring,60.0,60.0,0.36,287.0,1.9024390243902438,7.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,831,Flooring,60.0,120.0,0.72,831.0,0.6570397111913358,5.81
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,703,Flooring,60.0,120.0,0.72,703.0,0.7766714082503556,6.05
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,563,Flooring,60.0,120.0,0.72,563.0,0.9698046181172292,5.54
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,244,Flooring,60.0,60.0,0.36,244.0,2.237704918032787,9.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,508,Flooring,60.0,120.0,0.72,508.0,1.0748031496062993,6.65
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,568,Flooring,60.0,120.0,0.72,568.0,0.9612676056338029,5.52
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,377,Flooring,60.0,60.0,0.36,377.0,1.4482758620689655,6.5
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,9.4
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,835,Flooring,60.0,120.0,0.72,835.0,0.6538922155688622,6.71
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,248,Flooring,60.0,60.0,0.36,248.0,2.2016129032258065,7.6
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,544,Flooring,60.0,120.0,0.72,544.0,1.0036764705882353,6.51
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,730,Flooring,60.0,120.0,0.72,730.0,0.7479452054794521,6.9
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,195,Flooring,60.0,60.0,0.36,195.0,2.8,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,674,Flooring,60.0,120.0,0.72,674.0,0.8100890207715133,7.02
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,576,Flooring,60.0,120.0,0.72,576.0,0.9479166666666666,6.4
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,279,Flooring,60.0,60.0,0.36,279.0,1.956989247311828,8.41
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,313,Flooring,60.0,60.0,0.36,313.0,1.744408945686901,7.09
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,334,Flooring,60.0,60.0,0.36,334.0,1.6347305389221556,8.67
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,658,Flooring,60.0,120.0,0.72,658.0,0.8297872340425532,5.26
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,359,Flooring,60.0,60.0,0.36,359.0,1.5208913649025069,6.64
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,876,Flooring,60.0,120.0,0.72,876.0,0.6232876712328768,4.85
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,852,Flooring,60.0,120.0,0.72,852.0,0.6408450704225352,6.68
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,9.25
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,793,Flooring,60.0,120.0,0.72,793.0,0.6885245901639344,4.98
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,898,Flooring,60.0,120.0,0.72,898.0,0.6080178173719376,4.82
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,568,Flooring,60.0,120.0,0.72,568.0,0.9612676056338029,6.42
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,272,Flooring,60.0,60.0,0.36,272.0,2.0073529411764706,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,730,Flooring,60.0,120.0,0.72,730.0,0.7479452054794521,6.0
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,778,Flooring,60.0,120.0,0.72,778.0,0.7017994858611826,6.8
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,359,Flooring,60.0,60.0,0.36,359.0,1.5208913649025069,8.44
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,572,Flooring,60.0,120.0,0.72,572.0,0.9545454545454546,7.31
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,689,Flooring,60.0,120.0,0.72,689.0,0.7924528301886793,5.18
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,261,Flooring,60.0,60.0,0.36,261.0,2.0919540229885056,7.6
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,221,Flooring,60.0,60.0,0.36,221.0,2.4705882352941178,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,633,Flooring,60.0,120.0,0.72,633.0,0.8625592417061612,7.13
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,597,Flooring,60.0,120.0,0.72,597.0,0.914572864321608,7.23
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,230,Flooring,60.0,60.0,0.36,230.0,2.373913043478261,9.4
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,357,Flooring,60.0,60.0,0.36,357.0,1.5294117647058822,7.56
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,728,Flooring,60.0,120.0,0.72,728.0,0.75,6.9
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,272,Flooring,60.0,60.0,0.36,272.0,2.0073529411764706,8.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,469,Flooring,60.0,120.0,0.72,469.0,1.164179104477612,5.93
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,270,Flooring,60.0,60.0,0.36,270.0,2.022222222222222,9.4
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,245,Flooring,60.0,60.0,0.36,245.0,2.2285714285714286,9.4
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,357,Flooring,60.0,60.0,0.36,357.0,1.5294117647058822,6.66
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,707,Flooring,60.0,120.0,0.72,707.0,0.7722772277227723,5.14
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,660,Flooring,60.0,120.0,0.72,660.0,0.8272727272727273,7.05
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,856,Flooring,60.0,120.0,0.72,856.0,0.6378504672897196,5.78
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,751,Flooring,60.0,120.0,0.72,751.0,0.7270306258322237,5.05
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,355,Flooring,60.0,60.0,0.36,355.0,1.5380281690140845,6.68
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,191,Flooring,60.0,60.0,0.36,191.0,2.858638743455497,8.5
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,172,Flooring,60.0,60.0,0.36,172.0,3.1744186046511627,7.6
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,204,Flooring,60.0,60.0,0.36,204.0,2.676470588235294,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,750,Flooring,60.0,120.0,0.72,750.0,0.728,5.96
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,906,Flooring,60.0,120.0,0.72,906.0,0.6026490066225165,4.81
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,355,Flooring,60.0,60.0,0.36,355.0,1.5380281690140845,7.58
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,245,Flooring,60.0,60.0,0.36,245.0,2.2285714285714286,8.5
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,453,Flooring,60.0,120.0,0.72,453.0,1.205298013245033,6.91
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,239,Flooring,60.0,60.0,0.36,239.0,2.284518828451883,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,705,Flooring,60.0,120.0,0.72,705.0,0.774468085106383,5.15
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,694,Flooring,60.0,120.0,0.72,694.0,0.7867435158501441,5.17
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,574,Flooring,60.0,120.0,0.72,574.0,0.9512195121951219,5.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,488,Flooring,60.0,120.0,0.72,488.0,1.1188524590163935,7.64
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,837,Flooring,60.0,120.0,0.72,837.0,0.6523297491039427,6.7
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,202,Flooring,60.0,60.0,0.36,202.0,2.702970297029703,8.5
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,172,Flooring,60.0,60.0,0.36,172.0,3.1744186046511627,8.5
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,623,Flooring,60.0,120.0,0.72,623.0,0.8764044943820225,7.15
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,596,Flooring,60.0,120.0,0.72,596.0,0.9161073825503355,7.23
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,460,Flooring,60.0,120.0,0.72,460.0,1.1869565217391305,7.77
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,808,Flooring,60.0,120.0,0.72,808.0,0.6757425742574258,5.85
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,576,Flooring,60.0,120.0,0.72,576.0,0.9479166666666666,5.5
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,283,Flooring,60.0,60.0,0.36,283.0,1.9293286219081272,9.26
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,202,Flooring,60.0,60.0,0.36,202.0,2.702970297029703,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,427,Flooring,60.0,120.0,0.72,427.0,1.278688524590164,6.16
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,858,Flooring,60.0,120.0,0.72,858.0,0.6363636363636364,6.67
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,281,Flooring,60.0,60.0,0.36,281.0,1.9430604982206405,9.29
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,232,Flooring,60.0,60.0,0.36,232.0,2.353448275862069,9.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,778,Flooring,60.0,120.0,0.72,778.0,0.7017994858611826,5.9
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,569,Flooring,60.0,120.0,0.72,569.0,0.9595782073813708,7.32
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,707,Flooring,60.0,120.0,0.72,707.0,0.7722772277227723,5.14
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,466,Flooring,60.0,120.0,0.72,466.0,1.1716738197424892,7.74
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,852,Flooring,60.0,120.0,0.72,852.0,0.6408450704225352,4.88
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,469,Flooring,60.0,120.0,0.72,469.0,1.164179104477612,6.83
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,172,Flooring,60.0,60.0,0.36,172.0,3.1744186046511627,9.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,644,Flooring,60.0,120.0,0.72,644.0,0.8478260869565217,7.1
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,446,Flooring,60.0,120.0,0.72,446.0,1.2242152466367713,6.95
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,330,Flooring,60.0,60.0,0.36,330.0,1.6545454545454545,6.91
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,727,Flooring,60.0,120.0,0.72,727.0,0.7510316368638239,6.9
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,934,Flooring,60.0,120.0,0.72,934.0,0.5845824411134903,5.67
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,681,Flooring,60.0,120.0,0.72,681.0,0.801762114537445,7.0
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,202,Flooring,60.0,60.0,0.36,202.0,2.702970297029703,9.4
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,339,Flooring,60.0,60.0,0.36,339.0,1.6106194690265487,8.62
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,371,Flooring,60.0,60.0,0.36,371.0,1.471698113207547,8.34
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,355,Flooring,60.0,60.0,0.36,355.0,1.5380281690140845,7.58
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,488,Flooring,60.0,120.0,0.72,488.0,1.1188524590163935,5.84
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,218,Flooring,60.0,60.0,0.36,218.0,2.5045871559633026,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,531,Flooring,60.0,120.0,0.72,531.0,1.0282485875706215,5.66
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,334,Flooring,60.0,60.0,0.36,334.0,1.6347305389221556,6.87
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,836,Flooring,60.0,120.0,0.72,836.0,0.65311004784689,5.81
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,528,Flooring,60.0,120.0,0.72,528.0,1.0340909090909092,5.67
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,757,Flooring,60.0,120.0,0.72,757.0,0.7212681638044914,5.94
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,236,Flooring,60.0,60.0,0.36,236.0,2.3135593220338984,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,914,Flooring,60.0,120.0,0.72,914.0,0.5973741794310722,4.79
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,240,Flooring,60.0,60.0,0.36,240.0,2.275,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,844,Flooring,60.0,120.0,0.72,844.0,0.6469194312796208,6.69
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,767,Flooring,60.0,120.0,0.72,767.0,0.711864406779661,5.02
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,769,Flooring,60.0,120.0,0.72,769.0,0.7100130039011704,5.92
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,689,Flooring,60.0,120.0,0.72,689.0,0.7924528301886793,6.98
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,835,Flooring,60.0,120.0,0.72,835.0,0.6538922155688622,4.91
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,310,Flooring,60.0,60.0,0.36,310.0,1.761290322580645,8.92
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,205,Flooring,60.0,60.0,0.36,205.0,2.6634146341463416,9.4
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,346,Flooring,60.0,60.0,0.36,346.0,1.5780346820809248,7.66
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,720,Flooring,60.0,120.0,0.72,720.0,0.7583333333333333,6.92
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,248,Flooring,60.0,60.0,0.36,248.0,2.2016129032258065,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,683,Flooring,60.0,120.0,0.72,683.0,0.7994143484626647,5.2
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,358,Flooring,60.0,60.0,0.36,358.0,1.5251396648044693,7.55
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,819,Flooring,60.0,120.0,0.72,819.0,0.6666666666666666,6.73
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,496,Flooring,60.0,120.0,0.72,496.0,1.1008064516129032,5.8
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,702,Flooring,60.0,120.0,0.72,702.0,0.7777777777777778,5.16
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,750,Flooring,60.0,120.0,0.72,750.0,0.728,6.86
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,253,Flooring,60.0,60.0,0.36,253.0,2.158102766798419,8.5
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,652,Flooring,60.0,120.0,0.72,652.0,0.8374233128834356,7.07
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,702,Flooring,60.0,120.0,0.72,702.0,0.7777777777777778,5.16
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,690,Flooring,60.0,120.0,0.72,690.0,0.7913043478260869,6.08
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,235,Flooring,60.0,60.0,0.36,235.0,2.323404255319149,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,904,Flooring,60.0,120.0,0.72,904.0,0.6039823008849557,4.81
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,5.42
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,233,Flooring,60.0,60.0,0.36,233.0,2.3433476394849784,7.6
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,248,Flooring,60.0,60.0,0.36,248.0,2.2016129032258065,8.5
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,716,Flooring,60.0,120.0,0.72,716.0,0.7625698324022346,6.03
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,553,Flooring,60.0,120.0,0.72,553.0,0.9873417721518988,5.57
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,815,Flooring,60.0,120.0,0.72,815.0,0.6699386503067485,5.84
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,328,Flooring,60.0,60.0,0.36,328.0,1.6646341463414633,7.83
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,698,Flooring,60.0,120.0,0.72,698.0,0.7822349570200573,6.96
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,642,Flooring,60.0,120.0,0.72,642.0,0.8504672897196262,7.1
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,285,Flooring,60.0,60.0,0.36,285.0,1.9157894736842105,8.33
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,804,Flooring,60.0,120.0,0.72,804.0,0.6791044776119403,5.86
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,267,Flooring,60.0,60.0,0.36,267.0,2.044943820224719,9.4
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,690,Flooring,60.0,120.0,0.72,690.0,0.7913043478260869,6.08
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,306,Flooring,60.0,60.0,0.36,306.0,1.7843137254901962,7.17
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,438,Flooring,60.0,120.0,0.72,438.0,1.2465753424657535,6.99
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,927,Flooring,60.0,120.0,0.72,927.0,0.5889967637540453,6.58
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,914,Flooring,60.0,120.0,0.72,914.0,0.5973741794310722,4.79
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,466,Flooring,60.0,120.0,0.72,466.0,1.1716738197424892,6.84
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,790,Flooring,60.0,120.0,0.72,790.0,0.6911392405063291,6.78
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,310,Flooring,60.0,60.0,0.36,310.0,1.761290322580645,7.12
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,804,Flooring,60.0,120.0,0.72,804.0,0.6791044776119403,4.96
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,262,Flooring,60.0,60.0,0.36,262.0,2.0839694656488548,7.6
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,900,Flooring,60.0,120.0,0.72,900.0,0.6066666666666667,4.81
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,263,Flooring,60.0,60.0,0.36,263.0,2.076045627376426,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,737,Flooring,60.0,120.0,0.72,737.0,0.7408412483039348,6.88
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,552,Flooring,60.0,120.0,0.72,552.0,0.9891304347826086,6.48
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,569,Flooring,60.0,120.0,0.72,569.0,0.9595782073813708,7.32
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,280,Flooring,60.0,60.0,0.36,280.0,1.95,8.4
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,218,Flooring,60.0,60.0,0.36,218.0,2.5045871559633026,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,645,Flooring,60.0,120.0,0.72,645.0,0.8465116279069768,7.09
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,258,Flooring,60.0,60.0,0.36,258.0,2.116279069767442,7.6
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,885,Flooring,60.0,120.0,0.72,885.0,0.6169491525423729,5.73
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,328,Flooring,60.0,60.0,0.36,328.0,1.6646341463414633,6.93
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,299,Flooring,60.0,60.0,0.36,299.0,1.826086956521739,7.25
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,600,Flooring,60.0,120.0,0.72,600.0,0.91,5.42
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,232,Flooring,60.0,60.0,0.36,232.0,2.353448275862069,7.6
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,191,Flooring,60.0,60.0,0.36,191.0,2.858638743455497,8.5
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,235,Flooring,60.0,60.0,0.36,235.0,2.323404255319149,9.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,650,Flooring,60.0,120.0,0.72,650.0,0.84,6.18
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,258,Flooring,60.0,60.0,0.36,258.0,2.116279069767442,8.5
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,360,Flooring,60.0,60.0,0.36,360.0,1.5166666666666666,8.43
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,544,Flooring,60.0,120.0,0.72,544.0,1.0036764705882353,6.51
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,317,Flooring,60.0,60.0,0.36,317.0,1.722397476340694,7.04
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,179,Flooring,60.0,60.0,0.36,179.0,3.0502793296089385,9.4
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,890,Flooring,60.0,120.0,0.72,890.0,0.6134831460674157,6.63
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,456,Flooring,60.0,120.0,0.72,456.0,1.1973684210526316,7.79
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,550,Flooring,60.0,120.0,0.72,550.0,0.9927272727272727,6.49
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,285,Flooring,60.0,60.0,0.36,285.0,1.9157894736842105,8.33
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,534,Flooring,60.0,120.0,0.72,534.0,1.0224719101123596,6.54
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,836,Flooring,60.0,120.0,0.72,836.0,0.65311004784689,5.81
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,310,Flooring,60.0,60.0,0.36,310.0,1.761290322580645,8.02
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,440,Flooring,60.0,120.0,0.72,440.0,1.240909090909091,7.88
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,762,Flooring,60.0,120.0,0.72,762.0,0.7165354330708661,5.03
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,5.06
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,944,Flooring,60.0,120.0,0.72,944.0,0.5783898305084746,6.56
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,652,Flooring,60.0,120.0,0.72,652.0,0.8374233128834356,6.17
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,462,Flooring,60.0,120.0,0.72,462.0,1.1818181818181819,6.86
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,258,Flooring,60.0,60.0,0.36,258.0,2.116279069767442,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,545,Flooring,60.0,120.0,0.72,545.0,1.001834862385321,6.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,845,Flooring,60.0,120.0,0.72,845.0,0.6461538461538462,4.89
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,235,Flooring,60.0,60.0,0.36,235.0,2.323404255319149,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,906,Flooring,60.0,120.0,0.72,906.0,0.6026490066225165,5.71
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,270,Flooring,60.0,60.0,0.36,270.0,2.022222222222222,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,716,Flooring,60.0,120.0,0.72,716.0,0.7625698324022346,6.93
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,452,Flooring,60.0,120.0,0.72,452.0,1.2079646017699115,7.82
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,287,Flooring,60.0,60.0,0.36,287.0,1.9024390243902438,8.3
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,793,Flooring,60.0,120.0,0.72,793.0,0.6885245901639344,6.78
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,667,Flooring,60.0,120.0,0.72,667.0,0.8185907046476761,6.14
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,645,Flooring,60.0,120.0,0.72,645.0,0.8465116279069768,5.29
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,832,Flooring,60.0,120.0,0.72,832.0,0.65625,4.91
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,782,Flooring,60.0,120.0,0.72,782.0,0.6982097186700768,5.9
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,272,Flooring,60.0,60.0,0.36,272.0,2.0073529411764706,7.6
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,226,Flooring,60.0,60.0,0.36,226.0,2.415929203539823,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,768,Flooring,60.0,120.0,0.72,768.0,0.7109375,5.02
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,5.06
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,613,Flooring,60.0,120.0,0.72,613.0,0.8907014681892332,6.28
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,508,Flooring,60.0,120.0,0.72,508.0,1.0748031496062993,5.75
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,284,Flooring,60.0,60.0,0.36,284.0,1.9225352112676057,9.25
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,564,Flooring,60.0,120.0,0.72,564.0,0.9680851063829787,6.44
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,837,Flooring,60.0,120.0,0.72,837.0,0.6523297491039427,6.7
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,232,Flooring,60.0,60.0,0.36,232.0,2.353448275862069,9.4
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,327,Flooring,60.0,60.0,0.36,327.0,1.6697247706422018,7.84
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,494,Flooring,60.0,120.0,0.72,494.0,1.105263157894737,7.61
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,494,Flooring,60.0,120.0,0.72,494.0,1.105263157894737,7.61
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,264,Flooring,60.0,60.0,0.36,264.0,2.0681818181818183,9.4
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,793,Flooring,60.0,120.0,0.72,793.0,0.6885245901639344,4.98
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,737,Flooring,60.0,120.0,0.72,737.0,0.7408412483039348,6.88
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,748,Flooring,60.0,120.0,0.72,748.0,0.7299465240641712,6.86
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,469,Flooring,60.0,120.0,0.72,469.0,1.164179104477612,5.93
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,522,Flooring,60.0,120.0,0.72,522.0,1.0459770114942528,7.49
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,664,Flooring,60.0,120.0,0.72,664.0,0.822289156626506,7.04
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,843,Flooring,60.0,120.0,0.72,843.0,0.6476868327402135,6.7
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,724,Flooring,60.0,120.0,0.72,724.0,0.7541436464088398,6.01
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,550,Flooring,60.0,120.0,0.72,550.0,0.9927272727272727,7.39
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,172,Flooring,60.0,60.0,0.36,172.0,3.1744186046511627,7.6
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,442,Flooring,60.0,120.0,0.72,442.0,1.2352941176470589,6.07
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,346,Flooring,60.0,60.0,0.36,346.0,1.5780346820809248,7.66
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,781,Flooring,60.0,120.0,0.72,781.0,0.6991037131882202,5.9
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,920,Flooring,60.0,120.0,0.72,920.0,0.5934782608695652,4.79
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,289,Flooring,60.0,60.0,0.36,289.0,1.8892733564013842,8.28
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,734,Flooring,60.0,120.0,0.72,734.0,0.7438692098092643,6.89
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,804,Flooring,60.0,120.0,0.72,804.0,0.6791044776119403,6.76
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,586,Flooring,60.0,120.0,0.72,586.0,0.931740614334471,5.46
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,876,Flooring,60.0,120.0,0.72,876.0,0.6232876712328768,4.85
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,676,Flooring,60.0,120.0,0.72,676.0,0.8076923076923077,5.22
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,179,Flooring,60.0,60.0,0.36,179.0,3.0502793296089385,7.6
+Royal Ceramica,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,226,Flooring,60.0,60.0,0.36,226.0,2.415929203539823,9.4
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,603,Flooring,60.0,120.0,0.72,603.0,0.9054726368159204,7.21
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,245,Flooring,60.0,60.0,0.36,245.0,2.2285714285714286,7.6
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,746,Flooring,60.0,120.0,0.72,746.0,0.7319034852546917,6.86
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,660,Flooring,60.0,120.0,0.72,660.0,0.8272727272727273,7.05
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,927,Flooring,60.0,120.0,0.72,927.0,0.5889967637540453,4.78
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,766,Flooring,60.0,120.0,0.72,766.0,0.7127937336814621,6.83
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,357,Flooring,60.0,60.0,0.36,357.0,1.5294117647058822,7.56
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,890,Flooring,60.0,120.0,0.72,890.0,0.6134831460674157,5.73
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,672,Flooring,60.0,120.0,0.72,672.0,0.8125,6.12
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,354,Flooring,60.0,60.0,0.36,354.0,1.5423728813559323,7.58
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,593,Flooring,60.0,120.0,0.72,593.0,0.9207419898819561,5.44
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,654,Flooring,60.0,120.0,0.72,654.0,0.8348623853211009,7.07
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,794,Flooring,60.0,120.0,0.72,794.0,0.6876574307304786,5.88
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Low,6.0,m2,0.1,Area_m2,1,Bedrooms,False,272,Flooring,60.0,60.0,0.36,272.0,2.0073529411764706,7.6
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Kitchen,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,278,Flooring,60.0,60.0,0.36,278.0,1.9640287769784173,9.33
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,934,Flooring,60.0,120.0,0.72,934.0,0.5845824411134903,4.77
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,460,Flooring,60.0,120.0,0.72,460.0,1.1869565217391305,6.87
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,574,Flooring,60.0,120.0,0.72,574.0,0.9512195121951219,6.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,683,Flooring,60.0,120.0,0.72,683.0,0.7994143484626647,7.0
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,756,Flooring,60.0,120.0,0.72,756.0,0.7222222222222222,6.84
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Bathroom,High,9.0,m2,0.12,Area_m2,1,Reception,False,764,Flooring,60.0,120.0,0.72,764.0,0.7146596858638743,6.83
+Lecico,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Bedrooms,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,244,Flooring,60.0,60.0,0.36,244.0,2.237704918032787,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Kitchen,Low,6.0,m2,0.12,Area_m2,1,Reception,False,707,Flooring,60.0,120.0,0.72,707.0,0.7722772277227723,5.14
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,261,Flooring,60.0,60.0,0.36,261.0,2.0919540229885056,9.4
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,Medium,7.5,m2,0.12,Area_m2,1,Reception,False,427,Flooring,60.0,120.0,0.72,427.0,1.278688524590164,7.06
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,713,Flooring,60.0,120.0,0.72,713.0,0.7657784011220197,5.13
+Ceramica Cleopatra,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,744,Flooring,60.0,120.0,0.72,744.0,0.7338709677419355,6.87
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,265,Flooring,60.0,60.0,0.36,265.0,2.060377358490566,8.5
+Alfa Ceramic,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,427,Flooring,60.0,120.0,0.72,427.0,1.278688524590164,6.16
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Kitchen,High,9.0,m2,0.12,Area_m2,1,Reception,False,506,Flooring,60.0,120.0,0.72,506.0,1.0790513833992095,7.56
+Lecico,Porcelain 60x120,Porcelain,Floor Tile,Third,60x120,Reception,Low,6.0,m2,0.12,Area_m2,1,Reception,False,509,Flooring,60.0,120.0,0.72,509.0,1.0726915520628684,5.75
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Bathroom,Low,6.0,m2,0.12,Area_m2,1,Reception,False,528,Flooring,60.0,120.0,0.72,528.0,1.0340909090909092,5.67
+Ceramica Cleopatra,Ceramic 60x60,Ceramic,Floor Tile,First,60x60,Bedrooms,High,9.0,m2,0.1,Area_m2,1,Bedrooms,False,368,Flooring,60.0,60.0,0.36,368.0,1.483695652173913,8.37
+Gemma,Porcelain 60x120,Porcelain,Floor Tile,First,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,850,Flooring,60.0,120.0,0.72,850.0,0.6423529411764706,6.68
+Gemma,Ceramic 60x60,Ceramic,Floor Tile,Third,60x60,Bathroom,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,201,Flooring,60.0,60.0,0.36,201.0,2.716417910447761,8.5
+Alfa Ceramic,Ceramic 60x60,Ceramic,Floor Tile,Second,60x60,Kitchen,Medium,7.5,m2,0.1,Area_m2,1,Bedrooms,False,248,Flooring,60.0,60.0,0.36,248.0,2.2016129032258065,8.5
+Royal Ceramica,Porcelain 60x120,Porcelain,Floor Tile,Second,60x120,Reception,High,9.0,m2,0.12,Area_m2,1,Reception,False,613,Flooring,60.0,120.0,0.72,613.0,0.8907014681892332,7.18
