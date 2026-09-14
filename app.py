@@ -7,11 +7,13 @@ from chatbot.parser import parse_answer
 from cost_engine.engine import build_detailed_estimate
 from src.prediction.predict import InvalidInputError, predict_finishing_cost
 
+
 st.set_page_config(
     page_title="Smart Finishing AI",
     page_icon="🏠",
     layout="wide"
 )
+
 
 QUESTIONS = [
     ("Apartment_Area_m2", "area", "number"),
@@ -55,7 +57,9 @@ if st.session_state.language is None:
     st.title("🏠 Smart Finishing AI")
 
     st.markdown("## Choose your language")
-    st.write("Please select your preferred language before starting the assistant.")
+    st.write(
+        "Please select your preferred language before starting the assistant."
+    )
 
     language_name = st.radio(
         "Language / اللغة",
@@ -76,6 +80,7 @@ if st.session_state.language is None:
 
 
 language = st.session_state.language
+
 
 current_language_name = next(
     name
@@ -109,7 +114,10 @@ if st.sidebar.button(
 
 
 st.title("🏠 Smart Finishing AI")
-st.caption(t("welcome", language))
+
+st.caption(
+    t("welcome", language)
+)
 
 
 if not st.session_state.messages:
@@ -124,7 +132,10 @@ if not st.session_state.messages:
     st.session_state.messages.append(
         {
             "role": "assistant",
-            "content": t(QUESTIONS[0][1], language)
+            "content": t(
+                QUESTIONS[0][1],
+                language
+            )
         }
     )
 
@@ -184,6 +195,7 @@ if (
                     "عدد حمامات الماستر لا يمكن أن يتجاوز إجمالي عدد الحمامات."
                 )
 
+
             if (
                 key == "Bathrooms"
                 and value
@@ -200,7 +212,9 @@ if (
                     "إجمالي عدد الحمامات لا يمكن أن يكون أقل من عدد حمامات الماستر."
                 )
 
+
             st.session_state.q_index += 1
+
 
             if (
                 st.session_state.q_index
@@ -293,7 +307,9 @@ if st.session_state.result:
         "prediction_range"
     ]["high_egp"]
 
+
     st.divider()
+
 
     st.subheader(
         f"💰 {t('total', language)}"
@@ -309,15 +325,19 @@ if st.session_state.result:
         f"{low:,.0f} – {high:,.0f} EGP"
     )
 
+
     st.subheader(
         f"📊 {t('breakdown', language)}"
     )
+
 
     categories = result[
         "details"
     ]["categories"]
 
+
     cols = st.columns(2)
+
 
     for i, (category, cost) in enumerate(
         categories.items()
@@ -328,11 +348,14 @@ if st.session_state.result:
             f"{cost:,.0f} EGP"
         )
 
+
     st.subheader(
         f"🧾 {t('included', language)}"
     )
 
+
     by_category = {}
+
 
     for line in result[
         "details"
@@ -342,6 +365,7 @@ if st.session_state.result:
             line["category"],
             []
         ).append(line)
+
 
     for category, lines in by_category.items():
 
@@ -365,12 +389,17 @@ if st.session_state.result:
                     )
                 )
 
+
     st.info(
         result[
             "details"
         ]["allocation_method"]
     )
 
+
     st.warning(
-        t("disclaimer", language)
+        t(
+            "disclaimer",
+            language
+        )
     )
