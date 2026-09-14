@@ -1,0 +1,939 @@
+Brand,Product_Name,Electrical_Category,Specification,Application,Quality_Level,Quality_Score,Unit,Quantity_Rule,Rule_Value,Required_For,Optional,Price_EGP,Category,Subcategory,Grade,Quality_Price_Band
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3073,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1773,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1655,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2006,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2847,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2777,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2650,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3003,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3090,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2614,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,111,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1751,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3077,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1978,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1825,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2830,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,143,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,90,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2048,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2675,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1688,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1649,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2772,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2693,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2912,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2173,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2606,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2846,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2788,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2066,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2101,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1657,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2813,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3015,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2732,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2981,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1759,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1848,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2715,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1735,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,149,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2872,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2727,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2796,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3072,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1872,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1836,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1902,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1672,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1648,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2829,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2067,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2726,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2027,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2816,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,60,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2668,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3040,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2853,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2932,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3081,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2876,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2991,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1936,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2796,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2656,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2825,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2178,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2941,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1715,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2607,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2688,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1948,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2763,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2834,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2954,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2886,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1601,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1885,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2600,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1728,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2706,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3001,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2085,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2959,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2624,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2854,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1654,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2872,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2995,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1656,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2808,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3075,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2871,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1769,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2103,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1959,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3079,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,74,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1969,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3097,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2976,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2727,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2812,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2878,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3064,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2154,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2086,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2155,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1687,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2154,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1966,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3001,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2169,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2707,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2899,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1839,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2010,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3030,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2864,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2735,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3047,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,132,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2170,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2032,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2007,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3057,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1664,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1975,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1917,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2620,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2156,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1785,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2198,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2109,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,136,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2161,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1974,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1774,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2198,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2059,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1977,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,132,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1930,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2724,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2933,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2160,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2725,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,163,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3094,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3055,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2914,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2053,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2956,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2700,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2624,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1830,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1826,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2852,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3029,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3061,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,109,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2125,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2891,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2976,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2658,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1770,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2074,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2105,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2073,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2177,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2705,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2924,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2841,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2894,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3091,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3066,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2174,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3059,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3064,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1698,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1919,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2678,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1754,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1719,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1659,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2666,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1748,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2638,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1780,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2751,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1907,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1713,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,166,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3077,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2958,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2840,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1605,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2189,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2660,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1618,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2820,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1929,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1724,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1622,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2756,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,109,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2796,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3095,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3051,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2625,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2984,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2766,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2646,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2161,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1734,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1801,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1810,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2800,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2650,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,158,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2621,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2032,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1745,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2631,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2040,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3075,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2176,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2767,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2961,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2164,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2785,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1833,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1803,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1760,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,112,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1676,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2830,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1761,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2027,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2086,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1867,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1812,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1791,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2912,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2149,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2612,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,70,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1602,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2091,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2987,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2944,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2091,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2851,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3052,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2888,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2698,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2729,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2827,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2617,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2859,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2613,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2845,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2924,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1776,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2762,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1686,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1708,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2799,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1774,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2164,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2874,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3001,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3037,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2690,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2023,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2013,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2981,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1770,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2611,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2850,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2794,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2634,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1919,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2925,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1923,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2957,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2795,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1688,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,159,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2786,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1605,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1867,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2106,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2628,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2837,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2168,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3030,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2651,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2713,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2698,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2870,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1885,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2671,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2663,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1719,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2983,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2068,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2767,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1841,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1918,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2721,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1604,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,65,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1801,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2806,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,174,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2627,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2925,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2115,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1722,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2972,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2931,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1732,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1923,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2646,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,143,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1950,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2167,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3060,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2187,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1893,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2872,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1986,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1991,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1937,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2745,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2828,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2878,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1902,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2729,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3013,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1605,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2974,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2653,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,153,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3063,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2661,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3096,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1646,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2647,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1711,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,147,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2757,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2835,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2953,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1606,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2999,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,76,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3090,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2722,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2951,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2787,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1796,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2813,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1627,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2091,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1633,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2724,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3085,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2671,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,139,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2958,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2166,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1783,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3039,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2658,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2823,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2978,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,85,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2970,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1961,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1777,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1777,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,82,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2749,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1813,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1853,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1810,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,145,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2871,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2722,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2935,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2143,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3029,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1704,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2193,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2074,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2096,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2647,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1949,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1722,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2918,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2898,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1914,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2059,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2179,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1606,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3004,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3022,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,132,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1955,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2151,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2937,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2812,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2106,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1825,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,144,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1732,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1866,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2756,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2186,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1687,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2689,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2947,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2819,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2031,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2926,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2600,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1809,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1797,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2996,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2677,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2980,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1869,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2111,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2859,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1975,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,163,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2068,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2605,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2096,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2936,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2782,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1615,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2827,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2970,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2602,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2978,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3084,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2755,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2007,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2196,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2839,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2724,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1806,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2754,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1626,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2181,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2776,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1676,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1752,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2619,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,66,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3093,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2719,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1805,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,66,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,134,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1953,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1966,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2069,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2825,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2928,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2884,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2770,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3080,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1944,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2822,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3050,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2913,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1886,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2723,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2037,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,129,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1974,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1924,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1821,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2107,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2623,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2047,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1969,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1736,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1785,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2196,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,96,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2127,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1893,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,108,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,76,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2847,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2941,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1659,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2928,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1628,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1934,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2696,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2135,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1651,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,139,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2607,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1956,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,95,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1716,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2740,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3018,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2742,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2169,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2600,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1841,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1707,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1838,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1747,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2178,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,119,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1835,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2657,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1873,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1875,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,71,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2706,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3007,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2634,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1979,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3083,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2877,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2816,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,97,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2673,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1889,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1666,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1616,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1961,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,115,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2059,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2678,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1617,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2887,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2747,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2027,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1989,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,174,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1980,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2725,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2899,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2804,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2130,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1840,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,133,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,86,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3005,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3098,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3011,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3010,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2752,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2967,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1971,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2163,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2937,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2077,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3063,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1866,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3030,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2144,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2050,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2713,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1642,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1925,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2718,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1619,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1660,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2618,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2933,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2888,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2947,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2167,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3090,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1826,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,108,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2752,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3028,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1619,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2830,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2089,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1927,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2965,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2884,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2116,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2656,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2892,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2946,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2993,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2766,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1822,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2960,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2617,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2058,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2093,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1646,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2057,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3010,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2624,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2679,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1739,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2800,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2781,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,151,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2832,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2968,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2822,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2882,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2612,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2813,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1682,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,164,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1997,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,97,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2625,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2070,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1893,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1868,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1731,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3031,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,94,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2165,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1691,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2792,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3071,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2755,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1783,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2838,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,72,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,131,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2769,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2793,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2987,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,178,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3004,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,89,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2899,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2132,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2086,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1807,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3042,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3038,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2057,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2901,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3058,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1945,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3068,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2031,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1973,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2840,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2737,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2066,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3064,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1713,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1945,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,58,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3068,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1870,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1690,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3043,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1795,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1989,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,101,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2819,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1766,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3016,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1711,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2788,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2862,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2992,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2172,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1743,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1611,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2628,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,68,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1877,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,88,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2968,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2665,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2949,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3016,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1895,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3094,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2822,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1856,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2908,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3002,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3035,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1675,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2139,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2823,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2940,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1802,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1625,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2977,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2188,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1984,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1893,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2688,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2817,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2069,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2690,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3058,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2114,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1796,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1622,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3011,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2801,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2858,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2634,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2696,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2108,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1966,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1836,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2844,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2965,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1680,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2753,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3064,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2109,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2703,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2889,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2703,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,116,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2010,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1663,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,64,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2148,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1871,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2903,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1769,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2914,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1704,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2886,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2144,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1921,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1893,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1780,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2867,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1988,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1946,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2683,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3005,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1865,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,67,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2044,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1860,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,98,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1735,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3073,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2849,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2043,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2932,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2774,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1925,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3049,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1983,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1629,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2054,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2853,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3062,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3073,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1734,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1770,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1903,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2013,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2710,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2853,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2998,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2876,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2952,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3015,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2723,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1780,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2610,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2939,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3082,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2697,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1822,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1962,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2699,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2712,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2003,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3012,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,69,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2744,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1780,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2846,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1757,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,114,Electrical,Sockets,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1776,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1675,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2833,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1903,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2908,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1822,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2970,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2988,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1962,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2109,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2784,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3079,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2735,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1879,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1628,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2134,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2983,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,135,Electrical,Sockets,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2842,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,171,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2758,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2110,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1677,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,114,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3094,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3078,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1855,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2091,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2819,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2954,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2858,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2754,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2953,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3002,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1967,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1871,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2676,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2658,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2721,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2926,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2864,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2095,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1804,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,159,Electrical,Sockets,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3030,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2625,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3093,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3082,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2173,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2749,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2024,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2821,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3057,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3041,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2106,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2739,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2721,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2080,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,156,Electrical,Sockets,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1987,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2638,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2955,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1625,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3018,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1835,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1790,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2778,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2089,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1637,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1763,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,1976,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3061,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2936,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2757,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2094,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2979,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2932,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2877,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1742,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1668,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2615,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2799,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2951,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2646,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2708,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2614,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2945,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2689,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1797,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3008,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2824,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2648,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2738,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1808,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2777,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2904,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2932,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1640,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1727,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2052,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2068,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1865,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,140,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1805,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1707,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2713,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2976,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2193,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1700,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2614,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1898,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2642,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1728,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1914,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2917,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Legrand,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1611,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1838,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Legrand,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2973,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2992,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3089,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2085,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2814,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2690,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Hager,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2963,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1687,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1617,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+Venus Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2884,Electrical,Wires & Cables,Not Applicable,High: > 2775
+El Sewedy Electric,Double Socket,Sockets,16A / 2 Gang,Rooms,Low,7.4,Piece,Per_Room,4.0,Room,False,147,Electrical,Sockets,Not Applicable,Low: <= 1966
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2668,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Low,8.7,Roll,Per_Area,0.05,Lighting,False,1778,Electrical,Wires & Cables,Not Applicable,Low: <= 1966
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,3003,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Hager,Copper Wire,Wires & Cables,1.5 mm² / 100m,Lighting,Medium,8.7,Roll,Per_Area,0.05,Lighting,False,2076,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,Medium,8.8,Roll,Per_Area,0.06,Sockets,False,2685,Electrical,Wires & Cables,Not Applicable,Medium: 1966 - 2775
+El Sewedy Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2879,Electrical,Wires & Cables,Not Applicable,High: > 2775
+Schneider Electric,Copper Wire,Wires & Cables,2.5 mm² / 100m,Sockets,High,8.8,Roll,Per_Area,0.06,Sockets,False,2869,Electrical,Wires & Cables,Not Applicable,High: > 2775

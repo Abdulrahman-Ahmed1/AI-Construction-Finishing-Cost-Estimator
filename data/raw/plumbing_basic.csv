@@ -1,0 +1,230 @@
+Brand,Product_Name,Plumbing_Category,Specification,Application,Quality_Level,Quality_Score,Unit,Quantity_Rule,Rule_Value,Required_For,Optional,Price_EGP,Category,Subcategory,Grade,Quality_Price_Band
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,420,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,205,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,165,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,440,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,425,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,360,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,445,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,385,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,155,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,375,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,465,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,155,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,415,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,485,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,220,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,490,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,365,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,205,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,435,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,495,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,495,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,220,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,475,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,410,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,420,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,480,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,160,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,475,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,380,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,360,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,440,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,210,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,500,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,440,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,165,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,175,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,410,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,440,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,425,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,475,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,505,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,495,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,370,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,185,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,465,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,385,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,475,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,175,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,400,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,200,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,360,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,455,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,375,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,375,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Low,7.3,Piece,Per_Bathroom,2,Bathroom,False,355,Plumbing,PVC Pipes,Not Applicable,Low: <= 355
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,165,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,405,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Low,7.3,Piece,Per_Bathroom,2,Bathroom,False,355,Plumbing,PVC Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,205,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,195,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,205,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,435,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,460,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,400,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,505,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,380,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,195,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,190,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,180,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,175,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,470,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,170,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Low,7.3,Piece,Per_Bathroom,2,Bathroom,False,355,Plumbing,PVC Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,195,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,160,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,180,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,405,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,425,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,200,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,180,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,190,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,165,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,460,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,220,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,150,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,490,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,170,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,410,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,445,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,465,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,215,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,430,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,420,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,190,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,470,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,170,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,435,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,420,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,395,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,490,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,495,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,185,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,390,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,405,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,210,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,485,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,215,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,365,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,450,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,450,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,380,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,400,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,380,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,455,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,445,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,165,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,395,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,500,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,190,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,210,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,490,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,380,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,195,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,185,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,410,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,485,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,370,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,365,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,430,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,215,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,455,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,395,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,430,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,400,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,220,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,415,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,160,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,375,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,155,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,175,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,390,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,410,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,485,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,215,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,400,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,370,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,455,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,450,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,220,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,160,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,200,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,395,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,200,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,495,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,430,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,485,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,465,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,420,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,505,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,405,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,470,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,480,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,360,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,390,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,425,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,205,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,370,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,210,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,175,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,480,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,425,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,200,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,475,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,440,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,190,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,470,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,445,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,185,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,170,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,155,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,415,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,215,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,150,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,450,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,490,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,370,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Low,7.3,Piece,Per_Bathroom,2,Bathroom,False,355,Plumbing,PVC Pipes,Not Applicable,Low: <= 355
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,470,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,195,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,500,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,455,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,385,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,460,Plumbing,PVC Pipes,Not Applicable,High: > 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,365,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,430,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,155,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,480,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,210,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,460,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,435,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,185,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,395,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,460,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,160,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,415,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,445,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,505,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,365,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,415,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,390,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,360,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Low,7.3,Piece,Per_Bathroom,2,Bathroom,False,355,Plumbing,PVC Pipes,Not Applicable,Low: <= 355
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,450,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,480,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,375,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,385,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+Nile,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,435,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,405,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+UPONOR,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,500,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,150,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,150,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,465,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Aqua Technology,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,505,Plumbing,PVC Pipes,Not Applicable,High: > 430
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,170,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Nile,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,180,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,150,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
+Georg Fischer,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,Medium,7.3,Piece,Per_Bathroom,2,Bathroom,False,390,Plumbing,PVC Pipes,Not Applicable,Medium: 355 - 430
+El Sherif,PVC Drain Pipe,PVC Pipes,110 mm / 4m,Drainage,High,7.3,Piece,Per_Bathroom,2,Bathroom,False,500,Plumbing,PVC Pipes,Not Applicable,High: > 430
+El Sherif,PPR Pipe,PPR Pipes,20 mm / 4m,Cold Water,Low,7.5,Piece,Per_Bathroom,6,Bathroom,False,180,Plumbing,PPR Pipes,Not Applicable,Low: <= 355
