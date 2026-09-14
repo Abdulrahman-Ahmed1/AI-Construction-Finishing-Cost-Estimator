@@ -1,12 +1,8 @@
-"""Multilingual UI/question translations with online auto-translation fallback.
-The app remains usable without a translation service by falling back to English.
-"""
 from functools import lru_cache
 
 LANGUAGES = {
-    "English": "en", "العربية": "ar", "Français": "fr", "Español": "es", "Deutsch": "de",
-    "Italiano": "it", "Português": "pt", "Türkçe": "tr", "Русский": "ru", "中文": "zh-CN",
-    "日本語": "ja", "한국어": "ko", "हिन्दी": "hi", "বাংলা": "bn", "اردو": "ur",
+    "English": "en",
+    "العربية": "ar",
 }
 
 COMMON = {
@@ -38,19 +34,58 @@ COMMON = {
     "disclaimer": "This estimate is based on the packaged product-price data and scenario-generated training data. It is an estimate, not a contractor quotation.",
     "restart": "Start a new estimate",
     "error": "I couldn't understand that answer. Please try again.",
-    "low": "Low", "medium": "Medium", "high": "High", "yes": "Yes", "no": "No",
-    "pvc": "PVC", "ppr": "PPR",
 }
+
+ARABIC = {
+    "welcome": "مرحبًا بك في Smart Finishing AI. سأطرح عليك بعض الأسئلة عن شقتك ثم أقدر لك تكلفة التشطيب.",
+    "area": "ما مساحة الشقة بالمتر المربع؟",
+    "rooms": "كم عدد غرف النوم؟",
+    "bathrooms": "كم عدد الحمامات؟",
+    "master_bathrooms": "كم عدد الحمامات الرئيسية (الماستر)؟",
+    "balconies": "كم عدد البلكونات؟",
+    "receptions": "كم عدد مناطق الريسبشن أو المعيشة؟",
+    "level": "ما مستوى التشطيب الذي تريده بشكل عام: منخفض، متوسط، أم مرتفع؟",
+    "ceilings": "ما جودة الأسقف التي تريدها: منخفضة، متوسطة، أم مرتفعة؟",
+    "doors": "ما جودة الأبواب التي تريدها: منخفضة، متوسطة، أم مرتفعة؟",
+    "electrical_basic": "ما جودة الكهرباء الأساسية التي تريدها: منخفضة، متوسطة، أم مرتفعة؟",
+    "electrical_finishing": "ما جودة الكهرباء النهائية التي تريدها: منخفضة، متوسطة، أم مرتفعة؟",
+    "flooring": "ما جودة الأرضيات التي تريدها: منخفضة، متوسطة، أم مرتفعة؟",
+    "paints": "ما جودة الدهانات التي تريدها: منخفضة، متوسطة، أم مرتفعة؟",
+    "plumbing_quality": "ما جودة السباكة التي تريدها: منخفضة، متوسطة، أم مرتفعة؟",
+    "sanitary": "ما جودة الأدوات الصحية التي تريدها: منخفضة، متوسطة، أم مرتفعة؟",
+    "ceiling_upgrade": "هل تريد تطويرًا ديكوريًا لسقف الريسبشن؟",
+    "chandelier": "هل تريد إضافة نجفة للريسبشن؟",
+    "master_upgrade": "هل تريد تطوير حمام الماستر بإضافة شاور أو كابينة؟",
+    "plumbing_system": "أي نظام سباكة تفضل: PVC أم PPR؟",
+    "thinking": "جاري حساب التكلفة التقديرية...",
+    "total": "إجمالي تكلفة التشطيب التقديرية",
+    "range": "نطاق التوقع التقديري",
+    "breakdown": "تفصيل التكلفة",
+    "included": "المكونات والتجهيزات المشمولة",
+    "disclaimer": "هذا التقدير مبني على بيانات أسعار المنتجات وبيانات التدريب المستخدمة في النموذج. وهو تقدير تقريبي وليس عرض سعر من مقاول.",
+    "restart": "بدء تقدير جديد",
+    "error": "لم أتمكن من فهم هذه الإجابة. حاول مرة أخرى.",
+}
+
 
 @lru_cache(maxsize=512)
 def translate_text(text: str, target: str) -> str:
-    if target == "en": return text
-    try:
-        from deep_translator import GoogleTranslator
-        return GoogleTranslator(source="auto", target=target).translate(text)
-    except Exception:
+    if target == "en":
         return text
 
+    if target == "ar":
+        for key, value in COMMON.items():
+            if value == text:
+                return ARABIC.get(key, text)
+
+    return text
+
+
 def t(key: str, language: str = "en") -> str:
-    text = COMMON.get(key, key)
-    return translate_text(text, language)
+    if language == "ar":
+        return ARABIC.get(
+            key,
+            COMMON.get(key, key)
+        )
+
+    return COMMON.get(key, key)
