@@ -2,23 +2,10 @@ from __future__ import annotations
 
 import streamlit as st
 
-from chatbot.i18n import (
-    LANGUAGES,
-    t,
-    translate_category,
-    translate_unit,
-)
-
+from chatbot.i18n import LANGUAGES, t
 from chatbot.parser import parse_answer
-
-from cost_engine.engine import (
-    build_detailed_estimate
-)
-
-from src.prediction.predict import (
-    InvalidInputError,
-    predict_finishing_cost
-)
+from cost_engine.engine import build_detailed_estimate
+from src.prediction.predict import InvalidInputError, predict_finishing_cost
 
 
 st.set_page_config(
@@ -38,73 +25,103 @@ QUESTIONS = [
     ("Finishing_Level", "level", "quality"),
     ("Ceilings_Quality", "ceilings", "quality"),
     ("Doors_Quality", "doors", "quality"),
-    (
-        "Electrical_Basic_Quality",
-        "electrical_basic",
-        "quality"
-    ),
-    (
-        "Electrical_Finishing_Quality",
-        "electrical_finishing",
-        "quality"
-    ),
+    ("Electrical_Basic_Quality", "electrical_basic", "quality"),
+    ("Electrical_Finishing_Quality", "electrical_finishing", "quality"),
     ("Flooring_Quality", "flooring", "quality"),
     ("Paints_Quality", "paints", "quality"),
     ("Plumbing_Quality", "plumbing_quality", "quality"),
     ("Sanitary_Quality", "sanitary", "quality"),
-    (
-        "Include_Reception_Ceiling_Upgrade",
-        "ceiling_upgrade",
-        "yesno"
-    ),
-    (
-        "Include_Reception_Chandelier",
-        "chandelier",
-        "yesno"
-    ),
-    (
-        "Include_Master_Bathroom_Upgrade",
-        "master_upgrade",
-        "yesno"
-    ),
+    ("Include_Reception_Ceiling_Upgrade", "ceiling_upgrade", "yesno"),
+    ("Include_Reception_Chandelier", "chandelier", "yesno"),
+    ("Include_Master_Bathroom_Upgrade", "master_upgrade", "yesno"),
     ("Plumbing_System", "plumbing_system", "plumbing"),
 ]
 
 
 def reset_chat():
-
     st.session_state.messages = []
-
     st.session_state.answers = {}
-
     st.session_state.q_index = 0
-
     st.session_state.result = None
 
 
-if "language" not in st.session_state:
+CATEGORY_TRANSLATIONS = {
+    "Ceilings": "الأسقف",
+    "Ceiling": "الأسقف",
+    "Doors": "الأبواب",
+    "Door": "الأبواب",
+    "Electrical Basic": "الكهرباء الأساسية",
+    "Basic Electrical": "الكهرباء الأساسية",
+    "Electrical Finishing": "الكهرباء النهائية",
+    "Finishing Electrical": "الكهرباء النهائية",
+    "Flooring": "الأرضيات",
+    "Floors": "الأرضيات",
+    "Paints": "الدهانات",
+    "Paint": "الدهانات",
+    "Plumbing": "السباكة",
+    "Sanitary": "الأدوات الصحية",
+    "Sanitary Ware": "الأدوات الصحية",
+    "Reception Ceiling": "سقف الريسبشن",
+    "Reception Chandelier": "نجفة الريسبشن",
+    "Master Bathroom": "حمام الماستر",
+    "Master Bathroom Upgrade": "تطوير حمام الماستر",
+}
 
+
+UNIT_TRANSLATIONS = {
+    "piece": "قطعة",
+    "pieces": "قطع",
+    "unit": "وحدة",
+    "units": "وحدات",
+    "m2": "م²",
+    "m²": "م²",
+    "meter": "متر",
+    "meters": "متر",
+    "liter": "لتر",
+    "liters": "لتر",
+    "box": "علبة",
+    "boxes": "علب",
+    "set": "طقم",
+    "sets": "أطقم",
+}
+
+
+def translate_category(category, language):
+    if language == "ar":
+        return CATEGORY_TRANSLATIONS.get(
+            category,
+            category
+        )
+
+    return category
+
+
+def translate_unit(unit, language):
+    if language == "ar":
+        return UNIT_TRANSLATIONS.get(
+            str(unit).lower(),
+            unit
+        )
+
+    return unit
+
+
+if "language" not in st.session_state:
     st.session_state.language = None
 
 
 if "messages" not in st.session_state:
-
     reset_chat()
 
 
 if st.session_state.language is None:
 
-    st.title(
-        "🏠 Smart Finishing AI"
-    )
+    st.title("🏠 Smart Finishing AI")
 
-    st.markdown(
-        "## Choose your language"
-    )
+    st.markdown("## Choose your language")
 
     st.write(
-        "Please select your preferred language "
-        "before starting the assistant."
+        "Please select your preferred language before starting the assistant."
     )
 
     language_name = st.radio(
@@ -119,9 +136,9 @@ if st.session_state.language is None:
         type="primary"
     ):
 
-        st.session_state.language = (
-            LANGUAGES[language_name]
-        )
+        st.session_state.language = LANGUAGES[
+            language_name
+        ]
 
         reset_chat()
 
@@ -140,19 +157,28 @@ current_language_name = next(
 )
 
 
-st.sidebar.title(
-    f"⚙️ {t('settings', language)}"
-)
+st.sidebar.title("⚙️ Settings")
 
 
-st.sidebar.write(
-    f"**{t('language', language)}:** "
-    f"{current_language_name}"
-)
+if language == "ar":
+
+    st.sidebar.write(
+        f"**اللغة:** {current_language_name}"
+    )
+
+    change_language_text = "تغيير اللغة"
+
+else:
+
+    st.sidebar.write(
+        f"**Language:** {current_language_name}"
+    )
+
+    change_language_text = "Change Language"
 
 
 if st.sidebar.button(
-    t("change_language", language),
+    change_language_text,
     use_container_width=True
 ):
 
@@ -173,10 +199,7 @@ if st.sidebar.button(
     st.rerun()
 
 
-st.title(
-    "🏠 Smart Finishing AI"
-)
-
+st.title("🏠 Smart Finishing AI")
 
 st.caption(
     t("welcome", language)
@@ -219,16 +242,22 @@ for msg in st.session_state.messages:
 
 if (
     st.session_state.result is None
-    and st.session_state.q_index
-    < len(QUESTIONS)
+    and st.session_state.q_index < len(QUESTIONS)
 ):
 
+    if language == "en":
+
+        chat_placeholder = "Type your answer..."
+
+    else:
+
+        chat_placeholder = "اكتب إجابتك..."
+
+
     prompt = st.chat_input(
-        t(
-            "type_answer",
-            language
-        )
+        chat_placeholder
     )
+
 
     if prompt:
 
@@ -267,11 +296,22 @@ if (
                 )
             ):
 
-                raise ValueError(
-                    t(
-                        "master_bathrooms_error",
-                        language
+                if language == "en":
+
+                    error_message = (
+                        "Master bathrooms cannot exceed "
+                        "total bathrooms."
                     )
+
+                else:
+
+                    error_message = (
+                        "عدد حمامات الماستر لا يمكن أن "
+                        "يتجاوز إجمالي عدد الحمامات."
+                    )
+
+                raise ValueError(
+                    error_message
                 )
 
 
@@ -284,11 +324,22 @@ if (
                 )
             ):
 
-                raise ValueError(
-                    t(
-                        "bathrooms_error",
-                        language
+                if language == "en":
+
+                    error_message = (
+                        "Total bathrooms cannot be less "
+                        "than master bathrooms."
                     )
+
+                else:
+
+                    error_message = (
+                        "إجمالي عدد الحمامات لا يمكن أن "
+                        "يكون أقل من عدد حمامات الماستر."
+                    )
+
+                raise ValueError(
+                    error_message
                 )
 
 
@@ -336,13 +387,11 @@ if (
                     )
 
 
-                    details = (
-                        build_detailed_estimate(
-                            st.session_state.answers,
-                            result[
-                                "estimated_total_cost_egp"
-                            ]
-                        )
+                    details = build_detailed_estimate(
+                        st.session_state.answers,
+                        result[
+                            "estimated_total_cost_egp"
+                        ]
                     )
 
 
@@ -410,18 +459,34 @@ if st.session_state.result:
     )
 
 
-    st.metric(
-        t("currency_name", language),
-        f"{total:,.0f}"
-    )
+    if language == "ar":
+
+        st.metric(
+            "جنيه مصري",
+            f"{total:,.0f}"
+        )
+
+    else:
+
+        st.metric(
+            "EGP",
+            f"{total:,.0f}"
+        )
 
 
-    st.caption(
-        f"{t('range', language)}: "
-        f"{low:,.0f} – "
-        f"{high:,.0f} "
-        f"{t('currency_name', language)}"
-    )
+    if language == "ar":
+
+        st.caption(
+            f"{t('range', language)}: "
+            f"{low:,.0f} – {high:,.0f} جنيه مصري"
+        )
+
+    else:
+
+        st.caption(
+            f"{t('range', language)}: "
+            f"{low:,.0f} – {high:,.0f} EGP"
+        )
 
 
     st.subheader(
@@ -444,21 +509,25 @@ if st.session_state.result:
         categories.items()
     ):
 
-        display_category = (
-            translate_category(
-                category,
-                language
-            )
+        display_category = translate_category(
+            category,
+            language
         )
 
 
-        cols[i % 2].metric(
-            display_category,
-            (
-                f"{cost:,.0f} "
-                f"{t('currency_name', language)}"
+        if language == "ar":
+
+            cols[i % 2].metric(
+                display_category,
+                f"{cost:,.0f} جنيه"
             )
-        )
+
+        else:
+
+            cols[i % 2].metric(
+                display_category,
+                f"{cost:,.0f} EGP"
+            )
 
 
     st.subheader(
@@ -481,11 +550,9 @@ if st.session_state.result:
 
     for category, lines in by_category.items():
 
-        display_category = (
-            translate_category(
-                category,
-                language
-            )
+        display_category = translate_category(
+            category,
+            language
         )
 
 
@@ -495,12 +562,23 @@ if st.session_state.result:
         )
 
 
-        with st.expander(
-            (
+        if language == "ar":
+
+            expander_title = (
                 f"{display_category} — "
-                f"{category_cost:,.0f} "
-                f"{t('currency_name', language)}"
+                f"{category_cost:,.0f} جنيه"
             )
+
+        else:
+
+            expander_title = (
+                f"{display_category} — "
+                f"{category_cost:,.0f} EGP"
+            )
+
+
+        with st.expander(
+            expander_title
         ):
 
             for line in lines:
@@ -531,15 +609,25 @@ if st.session_state.result:
                 ]
 
 
-                text = (
-                    f"**{product_name}** — "
-                    f"{quantity:,.2f} "
-                    f"{unit} × "
-                    f"{unit_price:,.2f} "
-                    f"{t('currency_name', language)} "
-                    f"≈ **{estimated_cost:,.2f} "
-                    f"{t('currency_name', language)}**"
-                )
+                if language == "ar":
+
+                    text = (
+                        f"**{product_name}** — "
+                        f"{quantity:,.2f} "
+                        f"{unit} × "
+                        f"{unit_price:,.2f} جنيه "
+                        f"≈ **{estimated_cost:,.2f} جنيه**"
+                    )
+
+                else:
+
+                    text = (
+                        f"**{product_name}** — "
+                        f"{quantity:,.2f} "
+                        f"{unit} × "
+                        f"{unit_price:,.2f} EGP "
+                        f"≈ **{estimated_cost:,.2f} EGP**"
+                    )
 
 
                 if brand:
@@ -554,12 +642,24 @@ if st.session_state.result:
                 )
 
 
-    st.info(
-        t(
-            "allocation_method",
-            language
+    allocation_method = result[
+        "details"
+    ]["allocation_method"]
+
+
+    if language == "ar":
+
+        st.info(
+            "تم توزيع التكلفة التقديرية "
+            "بناءً على بيانات أسعار المنتجات "
+            "وبيانات التدريب المستخدمة في النموذج."
         )
-    )
+
+    else:
+
+        st.info(
+            allocation_method
+        )
 
 
     st.warning(
